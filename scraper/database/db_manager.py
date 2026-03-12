@@ -161,6 +161,18 @@ class DBManager:
                 logger.error(f"Service error '{name}': {e}")
 
 
+    def get_existing_websites(self) -> set:
+        """Return a set of all website URLs already in the database."""
+        with self.engine.connect() as conn:
+            result = conn.execute(text("SELECT website FROM agencies WHERE website IS NOT NULL AND website != ''"))
+            return {row[0].rstrip('/') for row in result}
+
+    def get_existing_github_urls(self) -> set:
+        """Return a set of all github_urls already in the database."""
+        with self.engine.connect() as conn:
+            result = conn.execute(text("SELECT github_url FROM agencies WHERE github_url IS NOT NULL AND github_url != ''"))
+            return {row[0] for row in result}
+
     # ── Write a scrape audit log ──────────────────────────────────
 
     def log_scrape(self, source: str, status: str,

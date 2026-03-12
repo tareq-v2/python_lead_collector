@@ -25,6 +25,18 @@
 
 @push('scripts')
     <script>
+        function showNotification(message, type = 'success') {
+            const colors = {
+                success: 'bg-green-100 border-green-400 text-green-800',
+                error: 'bg-red-100 border-red-400 text-red-800',
+            };
+            const div = document.createElement('div');
+            div.className =
+                `fixed top-4 right-4 z-50 border rounded-lg px-5 py-4 text-sm shadow-lg max-w-sm ${colors[type]}`;
+            div.innerHTML = `<strong>${type === 'success' ? '✅' : '❌'}</strong> ${message}`;
+            document.body.appendChild(div);
+            setTimeout(() => div.remove(), 6000);
+        }
         // Scraper trigger button handler
         document.getElementById('run-scraper-btn')?.addEventListener('click', function() {
 
@@ -50,12 +62,18 @@
                     return response.json();
                 })
                 .then(data => {
+                    btn.textContent = '⏳ Running in background...';
+                    btn.style.backgroundColor = '#16a34a';
 
-                    alert(data.message || 'Scraper started successfully.');
+                    // Show a non-blocking notification instead of alert()
+                    showNotification(data.message, 'success');
 
-                    btn.disabled = false;
-                    btn.textContent = '▶ Run Scraper';
-
+                    // Re-enable after 30 seconds
+                    setTimeout(() => {
+                        btn.disabled = false;
+                        btn.textContent = '▶ Run Scraper';
+                        btn.style.backgroundColor = '';
+                    }, 30000);
                 })
                 .catch(error => {
 

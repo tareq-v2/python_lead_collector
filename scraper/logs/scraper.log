@@ -500,3 +500,51 @@
 2026-03-12 12:25:50 | INFO     |   + NEOTERIC                           | Poland              | http://neoteric.eu
 2026-03-12 12:25:51 | INFO     |   + Nostrum Biodiscovery Software      | Unknown             | https://nostrumbiodiscovery.com
 2026-03-12 12:25:53 | INFO     |   + Lambda TT                          | Brazil              | https://www.lambdatt.com.br
+2026-03-12 14:09:47 | INFO     | Database connection established.
+2026-03-12 14:09:47 | INFO     | 
+2026-03-12 14:09:47 | INFO     | ==================================================
+2026-03-12 14:09:47 | INFO     |   Running scraper: GITHUB
+2026-03-12 14:09:47 | INFO     | ==================================================
+2026-03-12 14:09:47 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 14:09:47 | ERROR    | Scraper github crashed: name 'DBManager' is not defined
+2026-03-12 14:09:47 | INFO     | Database connection closed.
+2026-03-12 14:09:47 | INFO     | 
+2026-03-12 14:09:47 | SUCCESS  | All done! 0 agencies saved to database.
+2026-03-12 14:12:29 | INFO     | Database connection established.
+2026-03-12 14:12:29 | INFO     | 
+2026-03-12 14:12:29 | INFO     | ==================================================
+2026-03-12 14:12:29 | INFO     |   Running scraper: GITHUB
+2026-03-12 14:12:29 | INFO     | ==================================================
+2026-03-12 14:12:29 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 14:12:29 | INFO     | GitHub: 0 orgs already in database — will skip these
+2026-03-12 14:12:29 | INFO     | 
+2026-03-12 14:12:29 | INFO     | GitHub searching: "laravel agency"
+2026-03-12 14:12:30 | INFO     |   Found 30 organizations in search results
+2026-03-12 14:12:31 | INFO     |   + Morningtrain                         Danmark               https://morningtrain.dk
+2026-03-12 14:12:33 | INFO     |   + JustBetter                           The Netherlands       https://justbetter.nl
+2026-03-12 14:12:35 | INFO     |   + Artisan Build                        United States of America  https://artisan.build
+2026-03-12 14:12:36 | INFO     |   + Fruitcake                            Netherlands           https://fruitcake.nl
+2026-03-12 14:12:38 | INFO     |   + Redberry                             Georgia               https://redberry.international
+2026-03-12 14:12:39 | INFO     |   + Flixtechs                            Harare                https://flixtechs.co.zw
+2026-03-12 14:12:41 | INFO     |   + Van Ons Internet Agency              Netherlands           https://www.van-ons.nl
+2026-03-12 14:12:42 | INFO     |   + 42coders                             Belgrade              https://42coders.com
+2026-03-12 14:12:44 | INFO     |   + Modern McGuire Productions           United States of America  https://modernmcguire.com
+2026-03-12 14:12:46 | INFO     |   + D3FY Agency                          Arizona               https://www.d3fy.com
+2026-03-12 14:12:48 | ERROR    | Scraper github crashed: 'NoneType' object has no attribute 'strip'
+2026-03-12 14:12:48 | INFO     | Database connection closed.
+2026-03-12 14:12:48 | INFO     | 
+2026-03-12 14:12:48 | SUCCESS  | All done! 0 agencies saved to database.
+2026-03-12 14:14:50 | INFO     | Database connection established.
+2026-03-12 14:14:50 | INFO     | 
+2026-03-12 14:14:50 | INFO     | ==================================================
+2026-03-12 14:14:50 | INFO     |   Running scraper: GITHUB
+2026-03-12 14:14:50 | INFO     | ==================================================
+2026-03-12 14:14:50 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 14:14:50 | INFO     | GitHub: 0 orgs already in database — will skip these
+2026-03-12 14:14:50 | INFO     | 
+2026-03-12 14:14:50 | INFO     | GitHub searching: "laravel agency"
+2026-03-12 14:14:52 | INFO     |   Found 30 organizations in search results
+2026-03-12 14:14:54 | INFO     |   + Morningtrain                         Danmark               https://morningtrain.dk
+2026-03-12 14:14:55 | INFO     |   + JustBetter                           The Netherlands       https://justbetter.nl
+2026-03-12 14:14:57 | INFO     |   + Artisan Build                        United States of America  https://artisan.build
+2026-03-12 14:14:59 | INFO     |   + Fruitcake                            Netherlands           https://fruitcake.nl

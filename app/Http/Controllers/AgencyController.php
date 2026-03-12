@@ -75,17 +75,17 @@ class AgencyController extends Controller
      * Export filtered agencies as a CSV download.
      * Reads same filter params as index() — export matches active view.
      */
-    
+
     public function exportCsv(Request $request)
     {
+        // Build the same filtered query as index()
         $query = Agency::with('services');
 
-        // Apply same filters as index()
         if ($search = $request->get('search')) {
             $query->where(function ($q) use ($search) {
                 $q->where('name', 'like', "%{$search}%")
-                  ->orWhere('email', 'like', "%{$search}%")
-                  ->orWhere('city', 'like', "%{$search}%");
+                ->orWhere('email', 'like', "%{$search}%")
+                ->orWhere('city', 'like', "%{$search}%");
             });
         }
         if ($country = $request->get('country')) {
@@ -100,42 +100,48 @@ class AgencyController extends Controller
             $query->whereNotNull('email')->where('email', '!=', '');
         }
 
-        $agencies = $query->orderBy('name')->get();
-
-        // Stream CSV response — no file saved to disk
         $filename = 'agencies_' . date('Y-m-d') . '.csv';
 
         $headers = [
-            'Content-Type'        => 'text/csv',
-            'Content-Disposition' => "attachment; filename=\"{$filename}\"",
+            'Content-Type'              => 'text/csv; charset=UTF-8',
+            'Content-Disposition'       => "attachment; filename=\"{$filename}\"",
+            'X-Accel-Buffering'         => 'no',   // prevents Nginx buffering the stream
+            'Cache-Control'             => 'no-cache',
         ];
 
-        $callback = function () use ($agencies) {
+        // Clone query before chunking so filters are preserved
+        $exportQuery = clone $query;
+
+        $callback = function () use ($exportQuery) {
             $handle = fopen('php://output', 'w');
 
-            // CSV header row
+            // UTF-8 BOM — makes Excel open the file correctly without encoding issues
+            fwrite($handle, "\xEF\xBB\xBF");
+
             fputcsv($handle, [
                 'Name', 'Website', 'Country', 'City',
                 'Email', 'LinkedIn', 'GitHub',
                 'Company Size', 'Clutch Rating', 'Services', 'Source',
             ]);
 
-            // One row per agency
-            foreach ($agencies as $agency) {
-                fputcsv($handle, [
-                    $agency->name,
-                    $agency->website,
-                    $agency->country,
-                    $agency->city,
-                    $agency->email,
-                    $agency->linkedin_url,
-                    $agency->github_url,
-                    $agency->company_size,
-                    $agency->clutch_rating,
-                    $agency->services->pluck('name')->join(', '),
-                    $agency->source,
-                ]);
-            }
+            // Process in chunks of 500 — never loads full dataset into RAM
+            $exportQuery->orderBy('name')->chunk(500, function ($agencies) use ($handle) {
+                foreach ($agencies as $agency) {
+                    fputcsv($handle, [
+                        $agency->name,
+                        $agency->website,
+                        $agency->country,
+                        $agency->city,
+                        $agency->email          ?? '',
+                        $agency->linkedin_url   ?? '',
+                        $agency->github_url     ?? '',
+                        $agency->company_size   ?? '',
+                        $agency->clutch_rating  ?? '',
+                        $agency->services->pluck('name')->join(', '),
+                        $agency->source,
+                    ]);
+                }
+            });
 
             fclose($handle);
         };
@@ -148,24 +154,26 @@ class AgencyController extends Controller
      */
     public function runScraper(Request $request)
     {
-        $source = $request->get('source', 'github'); // default: github
+        $source = $request->get('source', 'github');
 
-        // Build path to Python executable inside venv
-        $pythonPath = base_path('scraper/venv/Scripts/python'); // Windows
-        // On Linux/Mac use: base_path('scraper/venv/bin/python')
+        // Validate source to prevent command injection
+        $allowed = ['github', 'clutch', 'goodfirms'];
+        if (!in_array($source, $allowed)) {
+            return response()->json(['message' => 'Invalid source.', 'status' => 'error'], 400);
+        }
 
+        $pythonPath = base_path('scraper/venv/Scripts/python.exe'); // Windows — note .exe
         $scriptPath = base_path('scraper/main.py');
+        $logPath    = base_path('scraper/logs/scraper_run.log');
 
-        // Run in background — & at end means "do not wait"
-        // Windows:
-        $command = "start /B {$pythonPath} {$scriptPath} --source {$source}";
-        // Linux/Mac alternative:
-        // $command = "{$pythonPath} {$scriptPath} --source {$source} > /dev/null 2>&1 &";
+        // popen() works reliably from Apache/web context on Windows
+        // Redirect both stdout and stderr to log file so you can debug
+        $command = "\"$pythonPath\" \"$scriptPath\" --source $source >> \"$logPath\" 2>&1";
 
-        exec($command);
+        popen("start /B " . $command, "r");
 
         return response()->json([
-            'message' => "Scraper started for source: {$source}",
+            'message' => "Scraper started for source: {$source}. Check logs/scraper_run.log for output.",
             'status'  => 'running',
         ]);
     }
