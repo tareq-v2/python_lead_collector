@@ -1,0 +1,963 @@
+2026-03-12 12:34:06 | INFO     | Database connection established.
+2026-03-12 12:34:06 | INFO     | 
+2026-03-12 12:34:06 | INFO     | ==================================================
+2026-03-12 12:34:06 | INFO     |   Running scraper: GITHUB
+2026-03-12 12:34:06 | INFO     | ==================================================
+2026-03-12 12:34:06 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 12:34:06 | INFO     | GitHub searching: "laravel agency"
+2026-03-12 12:34:07 | INFO     |   Found 30 organizations
+2026-03-12 12:34:08 | INFO     |   + Morningtrain                       | Danmark             | https://morningtrain.dk
+2026-03-12 12:34:10 | INFO     |   + JustBetter                         | The Netherlands     | https://justbetter.nl
+2026-03-12 12:34:11 | INFO     |   + Artisan Build                      | United States of America| https://artisan.build
+2026-03-12 12:34:12 | INFO     |   + Fruitcake                          | Netherlands         | https://fruitcake.nl
+2026-03-12 12:34:14 | INFO     |   + Redberry                           | Georgia             | https://redberry.international
+2026-03-12 12:34:16 | INFO     |   + Flixtechs                          | Harare              | https://flixtechs.co.zw
+2026-03-12 12:34:17 | INFO     |   + Van Ons Internet Agency            | Netherlands         | https://www.van-ons.nl
+2026-03-12 12:34:18 | INFO     |   + 42coders                           | Belgrade            | https://42coders.com
+2026-03-12 12:34:20 | INFO     |   + Modern McGuire Productions         | United States of America| https://modernmcguire.com
+2026-03-12 12:34:22 | INFO     |   + D3FY Agency                        | Arizona             | https://www.d3fy.com
+2026-03-12 12:34:23 | INFO     |   + A2Insights                         | Unknown             | https://a2insights.com.br
+2026-03-12 12:34:25 | INFO     |   + PLint-sites                        | The Netherlands     | https://plint-sites.nl
+2026-03-12 12:34:26 | INFO     |   + SK Developer I.T Services          | Faisalababad        | http://www.skdevelopers.pro
+2026-03-12 12:34:27 | INFO     |   + Gerenuk                            | United Kingdom      | https://geren.uk
+2026-03-12 12:34:29 | INFO     |   + Lacodix                            | Germany             | https://www.lacodix.de
+2026-03-12 12:34:30 | INFO     |   + BetaPeak                           | EU                  | https://betapeak.com
+2026-03-12 12:34:32 | INFO     |   + Liberu Real Estate / Estate Agency | United Kingdom      | https://www.liberusoftware.com
+2026-03-12 12:34:33 | INFO     |   + DigitalWheat                       | Estonia             | https://digitalwheat.com
+2026-03-12 12:34:35 | INFO     |   + Leetronix - Digital Agency         | Ukraine             | https://www.upwork.com/agencies/1968219094249439032
+2026-03-12 12:34:37 | INFO     |   + Threadable                         | Ireland             | https://www.threadable.io
+2026-03-12 12:34:38 | INFO     |   + CLLOH                              | Singapore           | No website
+2026-03-12 12:34:40 | INFO     |   + The Forge Agency                   | France              | https://www.the-forge.agency
+2026-03-12 12:34:42 | INFO     |   + Estuche                            | México              | https://estuche.co
+2026-03-12 12:34:43 | INFO     |   + Arthos                             | France              | https://arthos.fr
+2026-03-12 12:34:45 | INFO     |   + Mediaboost                         | Netherlands         | No website
+2026-03-12 12:34:46 | INFO     |   + roasted.dev                        | Unknown             | https://roasted.dev
+2026-03-12 12:34:48 | INFO     |   + Rowan                              | Sheffield           | https://rowan.agency
+2026-03-12 12:34:50 | INFO     |   + Softwhere                          | Unknown             | https://softwhere.nl
+2026-03-12 12:34:51 | INFO     |   + Upcreatives Digital                | shanghai china      | http://upcreatives.io
+2026-03-12 12:34:53 | INFO     |   + Red or Dev                         | Hong Kong           | https://www.redordev.com
+2026-03-12 12:34:53 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:34:55 | INFO     | GitHub searching: "software house"
+2026-03-12 12:34:56 | INFO     |   Found 30 organizations
+2026-03-12 12:34:58 | INFO     |   + Knowledge Integration Ltd          | UK                  | http://www.k-int.com
+2026-03-12 12:35:00 | INFO     |   + divante                            | Poland              | https://divante.com
+2026-03-12 12:35:01 | INFO     |   + TouK                               | Poland              | https://touk.pl
+2026-03-12 12:35:03 | INFO     |   + Clearcode                          | Poland              | http://clearcode.cc
+2026-03-12 12:35:05 | INFO     |   + SENAI SP - Unid 6.01 - Software House| Brazil              | https://ssancashprojetos.com.br
+2026-03-12 12:35:06 | INFO     |   + padosoft                           | Florence            | https://www.padosoft.com
+2026-03-12 12:35:08 | INFO     |   + Software House PLT                 | Malaysia            | http://softwarehouse.company
+2026-03-12 12:35:09 | INFO     |   + The Software House Sp. z o.o.      | 44-100 Gliwice      | http://www.tsh.io
+2026-03-12 12:35:11 | INFO     |   + Cyparta Software House             | Egypt               | https://cyparta.com
+2026-03-12 12:35:13 | INFO     |   + TheBrain Software House            | Unknown             | https://thebrain.pro
+2026-03-12 12:35:15 | INFO     |   + EunaRede                           | Unknown             | https://www.eunarede.com
+2026-03-12 12:35:17 | INFO     |   + LastStar.eu                        | Liberec Czech Republic| http://www.laststar.eu
+2026-03-12 12:35:18 | INFO     |   + EngineArch                         | Poland              | http://enginearch.com
+2026-03-12 12:35:20 | INFO     |   + Digital Applications               | Pakistan            | https://dgaps.com
+2026-03-12 12:35:23 | INFO     |   + LightHouse Software                | Unknown             | https://lhs.su
+2026-03-12 12:35:25 | INFO     |   + Ermlab Software                    | Poland              | https://ermlab.com
+2026-03-12 12:35:26 | INFO     |   + rndity; GoLang, Mobile & Embedded by Design| Poland              | https://rndity.com
+2026-03-12 12:35:28 | INFO     |   + resIT                              | Chile               | https://htttp://resIT.cl
+2026-03-12 12:35:30 | INFO     |   + Intré s.r.l.                       | Monza               | https://intre.it
+2026-03-12 12:35:31 | INFO     |   + Gorrion Software House             | Gliwice             | https://www.gorrion.io
+2026-03-12 12:35:33 | INFO     |   + Hack-a-Chain Software House        | Unknown             | https://hackachain.io
+2026-03-12 12:35:35 | INFO     |   + Codibly                            | Poland              | https://codibly.com
+2026-03-12 12:35:36 | INFO     |   + NEOTERIC                           | Poland              | http://neoteric.eu
+2026-03-12 12:35:38 | INFO     |   + Nostrum Biodiscovery Software      | Unknown             | https://nostrumbiodiscovery.com
+2026-03-12 12:35:39 | INFO     |   + Lambda TT                          | Brazil              | https://www.lambdatt.com.br
+2026-03-12 12:35:41 | INFO     |   + Trame Digitali                     | Italy               | https://www.trame-digitali.it
+2026-03-12 12:35:42 | INFO     |   + Silk Software House                | Poland              | http://silksoftwarehouse.com
+2026-03-12 12:35:44 | INFO     |   + nata.house                         | Brazil              | https://natahouse.com
+2026-03-12 12:35:45 | INFO     |   + Central Saga                       | Indonesia           | No website
+2026-03-12 12:35:47 | INFO     |   + TOKENIKA                           | Warsaw              | https://tokenika.io
+2026-03-12 12:35:47 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:35:49 | INFO     | GitHub searching: "web development company"
+2026-03-12 12:35:50 | INFO     |   Found 30 organizations
+2026-03-12 12:35:52 | INFO     |   + Lombiq Technologies Ltd.           | Hungary             | https://lombiq.com
+2026-03-12 12:35:54 | INFO     |   + Space-Rocket | Web Design & Development| USA                 | http://www.space-rocket.com
+2026-03-12 12:35:55 | INFO     |   + Cloudspace Crew                    | Florida             | http://cloudspace.com/blog
+2026-03-12 12:35:57 | INFO     |   + Stfalcon LLC                       | Ukraine             | https://stfalcon.com
+2026-03-12 12:35:58 | INFO     |   + Monterail                          | Poland              | https://www.monterail.com
+2026-03-12 12:36:00 | INFO     |   + The Blockchain Company.io          | United States of America| https://blockchain-company.io
+2026-03-12 12:36:01 | INFO     |   + MasterDev Studio                   | Ecuador             | No website
+2026-03-12 12:36:02 | INFO     |   + Madfish Solutions                  | Ukraine             | https://madfish.solutions
+2026-03-12 12:36:04 | INFO     |   + Hello Better                       | New Zealand         | https://hellobetterdigital.com
+2026-03-12 12:36:06 | INFO     |   + Steelkiwi Inc.                     | United States of America| http://steelkiwi.com
+2026-03-12 12:36:07 | INFO     |   + S U A L SOFT (pvt) Ltd             | United States of America| https://sual-soft.com
+2026-03-12 12:36:09 | INFO     |   + ilateral                           | UK                  | http://www.ilateral.co.uk
+2026-03-12 12:36:11 | INFO     |   + Bornfight                          | Croatia             | https://bornfight.com
+2026-03-12 12:36:12 | INFO     |   + Dreamvention                       | Estonia             | https://dreamvention.com
+2026-03-12 12:36:14 | INFO     |   + Mad Brains                         | Unknown             | https://madbrains.ru
+2026-03-12 12:36:16 | INFO     |   + Vivify Ideas                       | Novi Sad            | https://vivifyideas.com
+2026-03-12 12:36:17 | INFO     |   + Alone in the web                   | Zaragoza            | https://www.aloneintheweb.com
+2026-03-12 12:36:19 | INFO     |   + IDAP                               | USA                 | http://idapgroup.com
+2026-03-12 12:36:20 | INFO     |   + Javaabu                            | Maldives            | http://javaabu.com
+2026-03-12 12:36:22 | INFO     |   + JustCoded                          | Ukraine             | http://justcoded.com
+2026-03-12 12:36:24 | INFO     |   + Equilibrium                        | Unknown             | https://equilibrium.co
+2026-03-12 12:36:25 | INFO     |   + BinarCode                          | Romania             | https://www.binarcode.com
+2026-03-12 12:36:27 | INFO     |   + Jecmas Technologies                | Ghana               | No website
+2026-03-12 12:36:28 | INFO     |   + Thorgate                           | Estonia             | http://thorgate.eu
+2026-03-12 12:36:30 | INFO     |   + WorkSolutions                      | Rostov-on-Don       | https://worksolutions.ru
+2026-03-12 12:36:32 | INFO     |   + Translucent Computing Inc          | Canada              | http://www.translucentcomputing.com
+2026-03-12 12:36:33 | INFO     |   + NIX                                | Ukraine             | https://www.nixsolutions.com
+2026-03-12 12:36:35 | INFO     |   + KosmosKosmos                       | Germany             | https://kosmoskosmos.de
+2026-03-12 12:36:36 | INFO     |   + Kiwee                              | Poland              | https://kiwee.eu
+2026-03-12 12:36:38 | INFO     |   + Webteractive                       | Philippines         | https://webteractive.co
+2026-03-12 12:36:38 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:36:40 | INFO     | GitHub searching: "react development agency"
+2026-03-12 12:36:41 | INFO     |   Found 19 organizations
+2026-03-12 12:36:43 | INFO     |   + Marzee                             | Porto - Setúbal - London - Barcelona - Rome| https://marzee.co
+2026-03-12 12:36:45 | INFO     |   + Margelo                            | Unknown             | https://margelo.com
+2026-03-12 12:36:47 | INFO     |   + Gabby Software Engineering         | United States of America| https://gabbysoftware.com
+2026-03-12 12:36:49 | INFO     |   + digital cuisine                    | Germany             | https://www.cuisine.digital
+2026-03-12 12:36:50 | INFO     |   + BG Web Agency                      | Singapore           | http://bgwebagency.in
+2026-03-12 12:36:52 | INFO     |   + M10c                               | UK                  | https://www.m10c.com
+2026-03-12 12:36:53 | INFO     |   + stefan-majiros.com: Custom Mobile Development Agency| Unknown             | https://stefan-majiros.com
+2026-03-12 12:36:55 | INFO     |   + Ideamotive                         | Warsaw              | https://ideamotive.com
+2026-03-12 12:36:57 | INFO     |   + Increasio                          | Ukraine             | https://increas.io
+2026-03-12 12:36:58 | INFO     |   + RavSam                             | India               | https://www.ravsam.in
+2026-03-12 12:37:00 | INFO     |   + Katalyx                            | United Arab Emirates| https://katalyx.space
+2026-03-12 12:37:01 | INFO     |   + Project Lancer X                   | Türkiye             | https://umutkilbizoglu.dev
+2026-03-12 12:37:03 | INFO     |   + Dabest Digital Agency              | Nigeria             | https://www.dabestdigital.com
+2026-03-12 12:37:03 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:37:05 | INFO     | GitHub searching: "php development company"
+2026-03-12 12:37:06 | INFO     |   Found 15 organizations
+2026-03-12 12:37:07 | INFO     |   + Packagist Conductors               | Germany             | https://packagist.com
+2026-03-12 12:37:09 | INFO     |   + TRISOFT                            | Romania             | https://www.trisoft.ro
+2026-03-12 12:37:10 | INFO     |   + Technodweep                        | Unknown             | https://www.technodweep.com
+2026-03-12 12:37:12 | INFO     |   + Themicly                           | Bangladesh          | https://themicly.com
+2026-03-12 12:37:14 | INFO     |   + PHP Application Development Company| GA                  | No website
+2026-03-12 12:37:15 | INFO     |   + Teamtechkenya                      | Karatina            | https://teamtechkenya.co.ke
+2026-03-12 12:37:17 | INFO     |   + Compile Grid Software, INC.        | United States       | https://compilegridcms.com
+2026-03-12 12:37:18 | INFO     |   + Giriraj Digital                    | India               | https://www.girirajdigital.com
+2026-03-12 12:37:20 | INFO     |   + Tempo Ecommerce                    | Netherlands         | http://uinique.com
+2026-03-12 12:37:22 | INFO     |   + All4web                            | United Kingdom      | https://all4web.dev
+2026-03-12 12:37:24 | INFO     |   + W2S Solutions                      | chennai             | https://www.w2ssolutions.com/iphone-app-development
+2026-03-12 12:37:25 | INFO     |   + CubeSoft Company                   | Unknown             | https://soon
+2026-03-12 12:37:26 | INFO     |   + Wyolution, LLC                     | WY                  | https://wyolution.com
+2026-03-12 12:37:28 | INFO     |   + Convenience Designs                | Nairobi Kenya       | https://convenience.co.ke
+2026-03-12 12:37:29 | INFO     |   + Augmented Productivity             | Unknown             | https://augmentedproductivity.ai
+2026-03-12 12:37:29 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:37:31 | INFO     | GitHub searching: "mobile app development"
+2026-03-12 12:37:32 | INFO     |   Found 30 organizations
+2026-03-12 12:37:34 | INFO     |   + renuo                              | Zürich              | https://www.renuo.ch
+2026-03-12 12:37:35 | INFO     |   + Hive                               | Unknown             | http://hiveapps.io
+2026-03-12 12:37:36 | INFO     |   + Droids On Roids                    | Poland              | https://www.thedroidsonroids.com
+2026-03-12 12:37:38 | INFO     |   + Yudiz Solutions                    | india               | https://www.yudiz.com
+2026-03-12 12:37:39 | INFO     |   + Space-O Technologies               | Space-O Technologies| https://www.spaceotechnologies.com
+2026-03-12 12:37:40 | INFO     |   + weLaika                            | Italy               | https://dev.welaika.com/en
+2026-03-12 12:37:42 | INFO     |   + Somos Tech                         | https://www.instagram.com/somostech| http://www.somostech.com.ve
+2026-03-12 12:37:44 | INFO     |   + Brainbean Apps                     | Unknown             | https://brainbeanapps.com
+2026-03-12 12:37:45 | INFO     |   + CTECH Mobile App Dev 2018          | MN                  | No website
+2026-03-12 12:37:47 | INFO     |   + 41studio                           | West Java - Indonesia| https://www.41studio.com
+2026-03-12 12:37:49 | INFO     |   + ERPGulf - Most successful ERPNext and APP development projects in the Gulf| Saudi Arabia        | https://erpgulf.com
+2026-03-12 12:37:50 | INFO     |   + Sputznik                           | India               | https://sputznik.com
+2026-03-12 12:37:52 | INFO     |   + TwoGate inc.                       | Japan               | https://twogate.com
+2026-03-12 12:37:53 | INFO     |   + WebReinvent Technologies Pvt Ltd   | India               | https://webreinvent.com
+2026-03-12 12:37:55 | INFO     |   + Playmoweb                          | France              | https://playmoweb.com
+2026-03-12 12:37:56 | INFO     |   + Showing Cloud Inc                  | United States of America| https://www.showingcloud.com
+2026-03-12 12:37:58 | INFO     |   + Brightec                           | UK                  | https://www.brightec.co.uk
+2026-03-12 12:37:59 | INFO     |   + apppeppers                         | Unknown             | https://apppeppers.com
+2026-03-12 12:38:00 | INFO     |   + App Development Academy            | India               | https://www.youtube.com/@AppDevelopmentAcademy
+2026-03-12 12:38:02 | INFO     |   + InfoSkills Technology              | India               | https://infoskillstechnology.com
+2026-03-12 12:38:04 | INFO     |   + Django Stars                       | Ukraine             | http://djangostars.com
+2026-03-12 12:38:06 | INFO     |   + gigigo                             | Philippines...      | http://www.gigigo.com
+2026-03-12 12:38:07 | INFO     |   + stanwood                           | Berlin              | http://www.stanwood.io
+2026-03-12 12:38:09 | INFO     |   + Backendless                        | TX                  | https://backendless.com
+2026-03-12 12:38:11 | INFO     |   + Felgo                              | Vienna              | https://felgo.com
+2026-03-12 12:38:13 | INFO     |   + MAD                                | Texas               | https://txcsmad.com
+2026-03-12 12:38:14 | INFO     |   + Lazy Ants Agency                   | Frankfurt am Main   | https://lazy-ants.de
+2026-03-12 12:38:16 | INFO     |   + Glowlogix                          | Pakistan            | https://www.glowlogix.com
+2026-03-12 12:38:16 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:38:18 | SUCCESS  | GitHub scraper complete — 146 agencies collected
+2026-03-12 12:38:18 | DEBUG    | Updated: Morningtrain (id=1)
+2026-03-12 12:38:18 | DEBUG    | Updated: JustBetter (id=2)
+2026-03-12 12:38:18 | DEBUG    | Updated: Artisan Build (id=3)
+2026-03-12 12:38:18 | DEBUG    | Updated: Fruitcake (id=4)
+2026-03-12 12:38:18 | DEBUG    | Updated: Redberry (id=5)
+2026-03-12 12:38:18 | DEBUG    | Updated: Flixtechs (id=6)
+2026-03-12 12:38:18 | DEBUG    | Updated: Van Ons Internet Agency (id=7)
+2026-03-12 12:38:18 | DEBUG    | Updated: 42coders (id=8)
+2026-03-12 12:38:18 | DEBUG    | Updated: Modern McGuire Productions (id=9)
+2026-03-12 12:38:18 | DEBUG    | Updated: D3FY Agency (id=10)
+2026-03-12 12:38:18 | DEBUG    | Updated: A2Insights (id=11)
+2026-03-12 12:38:18 | DEBUG    | Updated: PLint-sites (id=12)
+2026-03-12 12:38:18 | DEBUG    | Updated: SK Developer I.T Services (id=13)
+2026-03-12 12:38:18 | DEBUG    | Updated: Gerenuk (id=14)
+2026-03-12 12:38:18 | DEBUG    | Updated: Lacodix (id=15)
+2026-03-12 12:38:18 | DEBUG    | Updated: BetaPeak (id=16)
+2026-03-12 12:38:18 | DEBUG    | Updated: Liberu Real Estate / Estate Agency (id=17)
+2026-03-12 12:38:18 | DEBUG    | Updated: DigitalWheat (id=18)
+2026-03-12 12:38:18 | DEBUG    | Updated: Leetronix - Digital Agency (id=19)
+2026-03-12 12:38:18 | DEBUG    | Updated: Threadable (id=20)
+2026-03-12 12:38:18 | INFO     | Inserted: CLLOH (id=140)
+2026-03-12 12:38:18 | DEBUG    | Updated: The Forge Agency (id=21)
+2026-03-12 12:38:18 | DEBUG    | Updated: Estuche (id=22)
+2026-03-12 12:38:18 | DEBUG    | Updated: Arthos (id=23)
+2026-03-12 12:38:18 | INFO     | Inserted: Mediaboost (id=141)
+2026-03-12 12:38:18 | DEBUG    | Updated: roasted.dev (id=24)
+2026-03-12 12:38:18 | DEBUG    | Updated: Rowan (id=25)
+2026-03-12 12:38:18 | DEBUG    | Updated: Softwhere (id=26)
+2026-03-12 12:38:18 | DEBUG    | Updated: Upcreatives Digital (id=27)
+2026-03-12 12:38:18 | DEBUG    | Updated: Red or Dev (id=28)
+2026-03-12 12:38:18 | DEBUG    | Updated: Knowledge Integration Ltd (id=29)
+2026-03-12 12:38:18 | DEBUG    | Updated: divante (id=30)
+2026-03-12 12:38:18 | DEBUG    | Updated: TouK (id=31)
+2026-03-12 12:38:18 | DEBUG    | Updated: Clearcode (id=32)
+2026-03-12 12:38:18 | DEBUG    | Updated: SENAI SP - Unid 6.01 - Software House (id=33)
+2026-03-12 12:38:18 | DEBUG    | Updated: padosoft (id=34)
+2026-03-12 12:38:18 | DEBUG    | Updated: Software House PLT (id=35)
+2026-03-12 12:38:18 | DEBUG    | Updated: The Software House Sp. z o.o. (id=36)
+2026-03-12 12:38:18 | DEBUG    | Updated: Cyparta Software House (id=37)
+2026-03-12 12:38:18 | DEBUG    | Updated: TheBrain Software House (id=38)
+2026-03-12 12:38:18 | DEBUG    | Updated: EunaRede (id=39)
+2026-03-12 12:38:18 | DEBUG    | Updated: LastStar.eu (id=40)
+2026-03-12 12:38:18 | DEBUG    | Updated: EngineArch (id=41)
+2026-03-12 12:38:18 | DEBUG    | Updated: Digital Applications (id=42)
+2026-03-12 12:38:18 | DEBUG    | Updated: LightHouse Software (id=43)
+2026-03-12 12:38:18 | DEBUG    | Updated: Ermlab Software (id=44)
+2026-03-12 12:38:18 | DEBUG    | Updated: rndity; GoLang, Mobile & Embedded by Design (id=45)
+2026-03-12 12:38:18 | DEBUG    | Updated: resIT (id=46)
+2026-03-12 12:38:18 | DEBUG    | Updated: Intré s.r.l. (id=47)
+2026-03-12 12:38:18 | DEBUG    | Updated: Gorrion Software House (id=48)
+2026-03-12 12:38:18 | DEBUG    | Updated: Hack-a-Chain Software House (id=49)
+2026-03-12 12:38:18 | DEBUG    | Updated: Codibly (id=50)
+2026-03-12 12:38:18 | DEBUG    | Updated: NEOTERIC (id=51)
+2026-03-12 12:38:18 | DEBUG    | Updated: Nostrum Biodiscovery Software (id=52)
+2026-03-12 12:38:18 | DEBUG    | Updated: Lambda TT (id=53)
+2026-03-12 12:38:18 | DEBUG    | Updated: Trame Digitali (id=54)
+2026-03-12 12:38:18 | DEBUG    | Updated: Silk Software House (id=55)
+2026-03-12 12:38:18 | DEBUG    | Updated: nata.house (id=56)
+2026-03-12 12:38:18 | INFO     | Inserted: Central Saga (id=142)
+2026-03-12 12:38:18 | DEBUG    | Updated: TOKENIKA (id=57)
+2026-03-12 12:38:18 | DEBUG    | Updated: Lombiq Technologies Ltd. (id=58)
+2026-03-12 12:38:18 | DEBUG    | Updated: Space-Rocket | Web Design & Development (id=59)
+2026-03-12 12:38:18 | DEBUG    | Updated: Cloudspace Crew (id=60)
+2026-03-12 12:38:18 | DEBUG    | Updated: Stfalcon LLC (id=61)
+2026-03-12 12:38:18 | DEBUG    | Updated: Monterail (id=62)
+2026-03-12 12:38:18 | DEBUG    | Updated: The Blockchain Company.io  (id=63)
+2026-03-12 12:38:18 | INFO     | Inserted: MasterDev Studio (id=143)
+2026-03-12 12:38:18 | DEBUG    | Updated: Madfish Solutions (id=64)
+2026-03-12 12:38:18 | DEBUG    | Updated: Hello Better (id=65)
+2026-03-12 12:38:18 | DEBUG    | Updated: Steelkiwi Inc. (id=66)
+2026-03-12 12:38:18 | DEBUG    | Updated: S U A L SOFT (pvt) Ltd (id=67)
+2026-03-12 12:38:18 | DEBUG    | Updated: ilateral (id=68)
+2026-03-12 12:38:18 | DEBUG    | Updated: Bornfight (id=69)
+2026-03-12 12:38:18 | DEBUG    | Updated: Dreamvention (id=70)
+2026-03-12 12:38:18 | DEBUG    | Updated: Mad Brains (id=71)
+2026-03-12 12:38:18 | DEBUG    | Updated: Vivify Ideas (id=72)
+2026-03-12 12:38:18 | DEBUG    | Updated: Alone in the web (id=73)
+2026-03-12 12:38:18 | DEBUG    | Updated: IDAP (id=74)
+2026-03-12 12:38:18 | DEBUG    | Updated: Javaabu (id=75)
+2026-03-12 12:38:18 | DEBUG    | Updated: JustCoded (id=76)
+2026-03-12 12:38:18 | DEBUG    | Updated: Equilibrium (id=77)
+2026-03-12 12:38:18 | DEBUG    | Updated: BinarCode (id=78)
+2026-03-12 12:38:18 | INFO     | Inserted: Jecmas Technologies (id=144)
+2026-03-12 12:38:18 | DEBUG    | Updated: Thorgate (id=79)
+2026-03-12 12:38:18 | DEBUG    | Updated: WorkSolutions (id=80)
+2026-03-12 12:38:18 | DEBUG    | Updated: Translucent Computing Inc (id=81)
+2026-03-12 12:38:18 | DEBUG    | Updated: NIX (id=82)
+2026-03-12 12:38:18 | DEBUG    | Updated: KosmosKosmos (id=83)
+2026-03-12 12:38:18 | DEBUG    | Updated: Kiwee (id=84)
+2026-03-12 12:38:18 | DEBUG    | Updated: Webteractive (id=85)
+2026-03-12 12:38:18 | DEBUG    | Updated: Marzee (id=86)
+2026-03-12 12:38:18 | DEBUG    | Updated: Margelo (id=87)
+2026-03-12 12:38:18 | DEBUG    | Updated: Gabby Software Engineering (id=88)
+2026-03-12 12:38:18 | DEBUG    | Updated: digital cuisine (id=89)
+2026-03-12 12:38:18 | DEBUG    | Updated: BG Web Agency (id=90)
+2026-03-12 12:38:18 | DEBUG    | Updated: M10c (id=91)
+2026-03-12 12:38:18 | DEBUG    | Updated: stefan-majiros.com: Custom Mobile Development Agency (id=92)
+2026-03-12 12:38:18 | DEBUG    | Updated: Ideamotive (id=93)
+2026-03-12 12:38:18 | DEBUG    | Updated: Increasio (id=94)
+2026-03-12 12:38:18 | DEBUG    | Updated: RavSam (id=95)
+2026-03-12 12:38:19 | DEBUG    | Updated: Katalyx (id=96)
+2026-03-12 12:38:19 | DEBUG    | Updated: Project Lancer X (id=97)
+2026-03-12 12:38:19 | DEBUG    | Updated: Dabest Digital Agency (id=98)
+2026-03-12 12:38:19 | DEBUG    | Updated: Packagist Conductors (id=99)
+2026-03-12 12:38:19 | DEBUG    | Updated: TRISOFT (id=100)
+2026-03-12 12:38:19 | DEBUG    | Updated: Technodweep (id=101)
+2026-03-12 12:38:19 | DEBUG    | Updated: Themicly (id=102)
+2026-03-12 12:38:19 | INFO     | Inserted: PHP Application Development Company (id=145)
+2026-03-12 12:38:19 | DEBUG    | Updated: Teamtechkenya  (id=103)
+2026-03-12 12:38:19 | DEBUG    | Updated: Compile Grid Software, INC. (id=104)
+2026-03-12 12:38:19 | DEBUG    | Updated: Giriraj Digital (id=105)
+2026-03-12 12:38:19 | DEBUG    | Updated: Tempo Ecommerce (id=106)
+2026-03-12 12:38:19 | DEBUG    | Updated: All4web (id=107)
+2026-03-12 12:38:19 | DEBUG    | Updated: W2S Solutions (id=108)
+2026-03-12 12:38:19 | DEBUG    | Updated: CubeSoft Company (id=109)
+2026-03-12 12:38:19 | DEBUG    | Updated: Wyolution, LLC (id=110)
+2026-03-12 12:38:19 | DEBUG    | Updated: Convenience Designs (id=111)
+2026-03-12 12:38:19 | DEBUG    | Updated: Augmented Productivity (id=112)
+2026-03-12 12:38:19 | DEBUG    | Updated: renuo (id=113)
+2026-03-12 12:38:19 | DEBUG    | Updated: Hive (id=114)
+2026-03-12 12:38:19 | DEBUG    | Updated: Droids On Roids (id=115)
+2026-03-12 12:38:19 | DEBUG    | Updated: Yudiz Solutions (id=116)
+2026-03-12 12:38:19 | DEBUG    | Updated: Space-O Technologies (id=117)
+2026-03-12 12:38:19 | DEBUG    | Updated: weLaika (id=118)
+2026-03-12 12:38:19 | DEBUG    | Updated: Somos Tech (id=119)
+2026-03-12 12:38:19 | DEBUG    | Updated: Brainbean Apps (id=120)
+2026-03-12 12:38:19 | INFO     | Inserted: CTECH Mobile App Dev 2018 (id=146)
+2026-03-12 12:38:19 | DEBUG    | Updated: 41studio (id=121)
+2026-03-12 12:38:19 | DEBUG    | Updated: ERPGulf - Most successful ERPNext and APP development projects in the Gulf (id=122)
+2026-03-12 12:38:19 | DEBUG    | Updated: Sputznik (id=123)
+2026-03-12 12:38:19 | DEBUG    | Updated: TwoGate inc. (id=124)
+2026-03-12 12:38:19 | DEBUG    | Updated: WebReinvent Technologies Pvt Ltd (id=125)
+2026-03-12 12:38:19 | DEBUG    | Updated: Playmoweb (id=126)
+2026-03-12 12:38:19 | DEBUG    | Updated: Showing Cloud Inc (id=127)
+2026-03-12 12:38:19 | DEBUG    | Updated: Brightec (id=128)
+2026-03-12 12:38:19 | DEBUG    | Updated: apppeppers (id=129)
+2026-03-12 12:38:19 | DEBUG    | Updated: App Development Academy (id=130)
+2026-03-12 12:38:19 | DEBUG    | Updated: InfoSkills Technology (id=131)
+2026-03-12 12:38:19 | DEBUG    | Updated: Django Stars (id=132)
+2026-03-12 12:38:19 | DEBUG    | Updated: gigigo (id=133)
+2026-03-12 12:38:19 | DEBUG    | Updated: stanwood (id=134)
+2026-03-12 12:38:19 | DEBUG    | Updated: Backendless (id=135)
+2026-03-12 12:38:19 | DEBUG    | Updated: Felgo (id=136)
+2026-03-12 12:38:19 | DEBUG    | Updated: MAD (id=137)
+2026-03-12 12:38:19 | DEBUG    | Updated: Lazy Ants Agency (id=138)
+2026-03-12 12:38:19 | DEBUG    | Updated: Glowlogix (id=139)
+2026-03-12 12:38:19 | SUCCESS  | github: saved 146/146 agencies in 252.9s
+2026-03-12 12:38:19 | INFO     | Database connection closed.
+2026-03-12 12:38:19 | INFO     | 
+2026-03-12 12:38:19 | SUCCESS  | All done! 146 agencies saved to database.
+2026-03-12 12:38:46 | INFO     | Database connection established.
+2026-03-12 12:38:46 | INFO     | 
+2026-03-12 12:38:46 | INFO     | ==================================================
+2026-03-12 12:38:46 | INFO     |   Running scraper: GITHUB
+2026-03-12 12:38:46 | INFO     | ==================================================
+2026-03-12 12:38:46 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 12:38:46 | INFO     | GitHub searching: "laravel agency"
+2026-03-12 12:38:47 | INFO     |   Found 30 organizations
+2026-03-12 12:38:49 | INFO     |   + Morningtrain                       | Danmark             | https://morningtrain.dk
+2026-03-12 12:38:51 | INFO     |   + JustBetter                         | The Netherlands     | https://justbetter.nl
+2026-03-12 12:38:52 | INFO     |   + Artisan Build                      | United States of America| https://artisan.build
+2026-03-12 12:38:54 | INFO     |   + Fruitcake                          | Netherlands         | https://fruitcake.nl
+2026-03-12 12:38:55 | INFO     |   + Redberry                           | Georgia             | https://redberry.international
+2026-03-12 12:38:57 | INFO     |   + Flixtechs                          | Harare              | https://flixtechs.co.zw
+2026-03-12 12:38:58 | INFO     |   + Van Ons Internet Agency            | Netherlands         | https://www.van-ons.nl
+2026-03-12 12:39:00 | INFO     |   + 42coders                           | Belgrade            | https://42coders.com
+2026-03-12 12:39:02 | INFO     |   + Modern McGuire Productions         | United States of America| https://modernmcguire.com
+2026-03-12 12:39:03 | INFO     |   + D3FY Agency                        | Arizona             | https://www.d3fy.com
+2026-03-12 12:39:05 | INFO     |   + A2Insights                         | Unknown             | https://a2insights.com.br
+2026-03-12 12:39:06 | INFO     |   + PLint-sites                        | The Netherlands     | https://plint-sites.nl
+2026-03-12 12:39:07 | INFO     |   + SK Developer I.T Services          | Faisalababad        | http://www.skdevelopers.pro
+2026-03-12 12:39:09 | INFO     |   + Gerenuk                            | United Kingdom      | https://geren.uk
+2026-03-12 12:39:11 | INFO     |   + Lacodix                            | Germany             | https://www.lacodix.de
+2026-03-12 12:39:12 | INFO     |   + BetaPeak                           | EU                  | https://betapeak.com
+2026-03-12 12:39:14 | INFO     |   + Liberu Real Estate / Estate Agency | United Kingdom      | https://www.liberusoftware.com
+2026-03-12 12:39:16 | INFO     |   + DigitalWheat                       | Estonia             | https://digitalwheat.com
+2026-03-12 12:39:18 | INFO     |   + Leetronix - Digital Agency         | Ukraine             | https://www.upwork.com/agencies/1968219094249439032
+2026-03-12 12:39:19 | INFO     |   + Threadable                         | Ireland             | https://www.threadable.io
+2026-03-12 12:39:21 | INFO     |   + CLLOH                              | Singapore           | No website
+2026-03-12 12:39:23 | INFO     |   + The Forge Agency                   | France              | https://www.the-forge.agency
+2026-03-12 12:39:24 | INFO     |   + Estuche                            | México              | https://estuche.co
+2026-03-12 12:39:26 | INFO     |   + Arthos                             | France              | https://arthos.fr
+2026-03-12 12:39:27 | INFO     |   + Mediaboost                         | Netherlands         | No website
+2026-03-12 12:39:29 | INFO     |   + roasted.dev                        | Unknown             | https://roasted.dev
+2026-03-12 12:39:31 | INFO     |   + Rowan                              | Sheffield           | https://rowan.agency
+2026-03-12 12:39:33 | INFO     |   + Softwhere                          | Unknown             | https://softwhere.nl
+2026-03-12 12:39:34 | INFO     |   + Upcreatives Digital                | shanghai china      | http://upcreatives.io
+2026-03-12 12:39:36 | INFO     |   + Red or Dev                         | Hong Kong           | https://www.redordev.com
+2026-03-12 12:39:36 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:39:38 | INFO     | GitHub searching: "software house"
+2026-03-12 12:39:39 | INFO     |   Found 30 organizations
+2026-03-12 12:39:41 | INFO     |   + Knowledge Integration Ltd          | UK                  | http://www.k-int.com
+2026-03-12 12:39:42 | INFO     |   + divante                            | Poland              | https://divante.com
+2026-03-12 12:39:44 | INFO     |   + TouK                               | Poland              | https://touk.pl
+2026-03-12 12:39:46 | INFO     |   + Clearcode                          | Poland              | http://clearcode.cc
+2026-03-12 12:39:48 | INFO     |   + SENAI SP - Unid 6.01 - Software House| Brazil              | https://ssancashprojetos.com.br
+2026-03-12 12:39:49 | INFO     |   + padosoft                           | Florence            | https://www.padosoft.com
+2026-03-12 12:39:51 | INFO     |   + Software House PLT                 | Malaysia            | http://softwarehouse.company
+2026-03-12 12:39:52 | INFO     |   + The Software House Sp. z o.o.      | 44-100 Gliwice      | http://www.tsh.io
+2026-03-12 12:39:54 | INFO     |   + Cyparta Software House             | Egypt               | https://cyparta.com
+2026-03-12 12:39:55 | INFO     |   + TheBrain Software House            | Unknown             | https://thebrain.pro
+2026-03-12 12:39:56 | INFO     |   + EunaRede                           | Unknown             | https://www.eunarede.com
+2026-03-12 12:39:58 | INFO     |   + LastStar.eu                        | Liberec Czech Republic| http://www.laststar.eu
+2026-03-12 12:40:00 | INFO     |   + EngineArch                         | Poland              | http://enginearch.com
+2026-03-12 12:40:01 | INFO     |   + Digital Applications               | Pakistan            | https://dgaps.com
+2026-03-12 12:40:04 | INFO     |   + LightHouse Software                | Unknown             | https://lhs.su
+2026-03-12 12:40:05 | INFO     |   + Ermlab Software                    | Poland              | https://ermlab.com
+2026-03-12 12:40:06 | INFO     |   + rndity; GoLang, Mobile & Embedded by Design| Poland              | https://rndity.com
+2026-03-12 12:40:08 | INFO     |   + resIT                              | Chile               | https://htttp://resIT.cl
+2026-03-12 12:40:09 | INFO     |   + Intré s.r.l.                       | Monza               | https://intre.it
+2026-03-12 12:40:11 | INFO     |   + Gorrion Software House             | Gliwice             | https://www.gorrion.io
+2026-03-12 12:40:12 | INFO     |   + Hack-a-Chain Software House        | Unknown             | https://hackachain.io
+2026-03-12 12:40:14 | INFO     |   + Codibly                            | Poland              | https://codibly.com
+2026-03-12 12:40:15 | INFO     |   + NEOTERIC                           | Poland              | http://neoteric.eu
+2026-03-12 12:40:17 | INFO     |   + Nostrum Biodiscovery Software      | Unknown             | https://nostrumbiodiscovery.com
+2026-03-12 12:40:19 | INFO     |   + Lambda TT                          | Brazil              | https://www.lambdatt.com.br
+2026-03-12 12:40:20 | INFO     |   + Trame Digitali                     | Italy               | https://www.trame-digitali.it
+2026-03-12 12:40:21 | INFO     |   + Silk Software House                | Poland              | http://silksoftwarehouse.com
+2026-03-12 12:40:22 | INFO     |   + nata.house                         | Brazil              | https://natahouse.com
+2026-03-12 12:40:25 | INFO     |   + Central Saga                       | Indonesia           | No website
+2026-03-12 12:40:26 | INFO     |   + TOKENIKA                           | Warsaw              | https://tokenika.io
+2026-03-12 12:40:26 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:40:28 | INFO     | GitHub searching: "web development company"
+2026-03-12 12:40:29 | INFO     |   Found 30 organizations
+2026-03-12 12:40:31 | INFO     |   + Lombiq Technologies Ltd.           | Hungary             | https://lombiq.com
+2026-03-12 12:40:32 | INFO     |   + Space-Rocket | Web Design & Development| USA                 | http://www.space-rocket.com
+2026-03-12 12:40:34 | INFO     |   + Cloudspace Crew                    | Florida             | http://cloudspace.com/blog
+2026-03-12 12:40:35 | INFO     |   + Stfalcon LLC                       | Ukraine             | https://stfalcon.com
+2026-03-12 12:40:37 | INFO     |   + Monterail                          | Poland              | https://www.monterail.com
+2026-03-12 12:40:38 | INFO     |   + The Blockchain Company.io          | United States of America| https://blockchain-company.io
+2026-03-12 12:40:39 | INFO     |   + MasterDev Studio                   | Ecuador             | No website
+2026-03-12 12:40:40 | INFO     |   + Madfish Solutions                  | Ukraine             | https://madfish.solutions
+2026-03-12 12:40:42 | INFO     |   + Hello Better                       | New Zealand         | https://hellobetterdigital.com
+2026-03-12 12:40:43 | INFO     |   + Steelkiwi Inc.                     | United States of America| http://steelkiwi.com
+2026-03-12 12:40:45 | INFO     |   + S U A L SOFT (pvt) Ltd             | United States of America| https://sual-soft.com
+2026-03-12 12:40:46 | INFO     |   + ilateral                           | UK                  | http://www.ilateral.co.uk
+2026-03-12 12:40:47 | INFO     |   + Bornfight                          | Croatia             | https://bornfight.com
+2026-03-12 12:40:49 | INFO     |   + Dreamvention                       | Estonia             | https://dreamvention.com
+2026-03-12 12:40:51 | INFO     |   + Mad Brains                         | Unknown             | https://madbrains.ru
+2026-03-12 12:40:53 | INFO     |   + Vivify Ideas                       | Novi Sad            | https://vivifyideas.com
+2026-03-12 12:40:55 | INFO     |   + Alone in the web                   | Zaragoza            | https://www.aloneintheweb.com
+2026-03-12 12:40:56 | INFO     |   + IDAP                               | USA                 | http://idapgroup.com
+2026-03-12 12:40:57 | INFO     |   + Javaabu                            | Maldives            | http://javaabu.com
+2026-03-12 12:40:59 | INFO     |   + JustCoded                          | Ukraine             | http://justcoded.com
+2026-03-12 12:41:01 | INFO     |   + Equilibrium                        | Unknown             | https://equilibrium.co
+2026-03-12 12:41:02 | INFO     |   + BinarCode                          | Romania             | https://www.binarcode.com
+2026-03-12 12:41:04 | INFO     |   + Jecmas Technologies                | Ghana               | No website
+2026-03-12 12:41:05 | INFO     |   + Thorgate                           | Estonia             | http://thorgate.eu
+2026-03-12 12:41:07 | INFO     |   + WorkSolutions                      | Rostov-on-Don       | https://worksolutions.ru
+2026-03-12 12:41:08 | INFO     |   + Translucent Computing Inc          | Canada              | http://www.translucentcomputing.com
+2026-03-12 12:41:10 | INFO     |   + NIX                                | Ukraine             | https://www.nixsolutions.com
+2026-03-12 12:41:12 | INFO     |   + KosmosKosmos                       | Germany             | https://kosmoskosmos.de
+2026-03-12 12:41:14 | INFO     |   + Kiwee                              | Poland              | https://kiwee.eu
+2026-03-12 12:41:16 | INFO     |   + Webteractive                       | Philippines         | https://webteractive.co
+2026-03-12 12:41:16 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:41:18 | INFO     | GitHub searching: "react development agency"
+2026-03-12 12:41:19 | INFO     |   Found 19 organizations
+2026-03-12 12:41:20 | INFO     |   + Marzee                             | Porto - Setúbal - London - Barcelona - Rome| https://marzee.co
+2026-03-12 12:41:22 | INFO     |   + Margelo                            | Unknown             | https://margelo.com
+2026-03-12 12:41:23 | INFO     |   + Gabby Software Engineering         | United States of America| https://gabbysoftware.com
+2026-03-12 12:41:25 | INFO     |   + digital cuisine                    | Germany             | https://www.cuisine.digital
+2026-03-12 12:41:26 | INFO     |   + BG Web Agency                      | Singapore           | http://bgwebagency.in
+2026-03-12 12:41:28 | INFO     |   + M10c                               | UK                  | https://www.m10c.com
+2026-03-12 12:41:30 | INFO     |   + stefan-majiros.com: Custom Mobile Development Agency| Unknown             | https://stefan-majiros.com
+2026-03-12 12:41:32 | INFO     |   + Ideamotive                         | Warsaw              | https://ideamotive.com
+2026-03-12 12:41:33 | INFO     |   + Increasio                          | Ukraine             | https://increas.io
+2026-03-12 12:41:35 | INFO     |   + RavSam                             | India               | https://www.ravsam.in
+2026-03-12 12:41:36 | INFO     |   + Katalyx                            | United Arab Emirates| https://katalyx.space
+2026-03-12 12:41:38 | INFO     |   + Project Lancer X                   | Türkiye             | https://umutkilbizoglu.dev
+2026-03-12 12:41:39 | INFO     |   + Dabest Digital Agency              | Nigeria             | https://www.dabestdigital.com
+2026-03-12 12:41:39 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:41:41 | INFO     | GitHub searching: "php development company"
+2026-03-12 12:41:42 | INFO     |   Found 15 organizations
+2026-03-12 12:41:43 | INFO     |   + Packagist Conductors               | Germany             | https://packagist.com
+2026-03-12 12:41:45 | INFO     |   + TRISOFT                            | Romania             | https://www.trisoft.ro
+2026-03-12 12:41:46 | INFO     |   + Technodweep                        | Unknown             | https://www.technodweep.com
+2026-03-12 12:41:48 | INFO     |   + Themicly                           | Bangladesh          | https://themicly.com
+2026-03-12 12:41:49 | INFO     |   + PHP Application Development Company| GA                  | No website
+2026-03-12 12:41:51 | INFO     |   + Teamtechkenya                      | Karatina            | https://teamtechkenya.co.ke
+2026-03-12 12:41:52 | INFO     |   + Compile Grid Software, INC.        | United States       | https://compilegridcms.com
+2026-03-12 12:41:54 | INFO     |   + Giriraj Digital                    | India               | https://www.girirajdigital.com
+2026-03-12 12:41:55 | INFO     |   + Tempo Ecommerce                    | Netherlands         | http://uinique.com
+2026-03-12 12:41:57 | INFO     |   + All4web                            | United Kingdom      | https://all4web.dev
+2026-03-12 12:41:59 | INFO     |   + W2S Solutions                      | chennai             | https://www.w2ssolutions.com/iphone-app-development
+2026-03-12 12:42:01 | INFO     |   + CubeSoft Company                   | Unknown             | https://soon
+2026-03-12 12:42:03 | INFO     |   + Wyolution, LLC                     | WY                  | https://wyolution.com
+2026-03-12 12:42:04 | INFO     |   + Convenience Designs                | Nairobi Kenya       | https://convenience.co.ke
+2026-03-12 12:42:06 | INFO     |   + Augmented Productivity             | Unknown             | https://augmentedproductivity.ai
+2026-03-12 12:42:06 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:42:08 | INFO     | GitHub searching: "mobile app development"
+2026-03-12 12:42:09 | INFO     |   Found 30 organizations
+2026-03-12 12:42:10 | INFO     |   + renuo                              | Zürich              | https://www.renuo.ch
+2026-03-12 12:42:11 | INFO     |   + Hive                               | Unknown             | http://hiveapps.io
+2026-03-12 12:42:13 | INFO     |   + Droids On Roids                    | Poland              | https://www.thedroidsonroids.com
+2026-03-12 12:42:14 | INFO     |   + Yudiz Solutions                    | india               | https://www.yudiz.com
+2026-03-12 12:42:16 | INFO     |   + Space-O Technologies               | Space-O Technologies| https://www.spaceotechnologies.com
+2026-03-12 12:42:18 | INFO     |   + weLaika                            | Italy               | https://dev.welaika.com/en
+2026-03-12 12:42:19 | INFO     |   + Somos Tech                         | https://www.instagram.com/somostech| http://www.somostech.com.ve
+2026-03-12 12:42:21 | INFO     |   + Brainbean Apps                     | Unknown             | https://brainbeanapps.com
+2026-03-12 12:42:22 | INFO     |   + CTECH Mobile App Dev 2018          | MN                  | No website
+2026-03-12 12:42:24 | INFO     |   + 41studio                           | West Java - Indonesia| https://www.41studio.com
+2026-03-12 12:42:25 | INFO     |   + ERPGulf - Most successful ERPNext and APP development projects in the Gulf| Saudi Arabia        | https://erpgulf.com
+2026-03-12 12:42:26 | INFO     |   + Sputznik                           | India               | https://sputznik.com
+2026-03-12 12:42:28 | INFO     |   + TwoGate inc.                       | Japan               | https://twogate.com
+2026-03-12 12:42:30 | INFO     |   + WebReinvent Technologies Pvt Ltd   | India               | https://webreinvent.com
+2026-03-12 12:42:32 | INFO     |   + Playmoweb                          | France              | https://playmoweb.com
+2026-03-12 12:42:33 | INFO     |   + Showing Cloud Inc                  | United States of America| https://www.showingcloud.com
+2026-03-12 12:42:34 | INFO     |   + Brightec                           | UK                  | https://www.brightec.co.uk
+2026-03-12 12:42:36 | INFO     |   + apppeppers                         | Unknown             | https://apppeppers.com
+2026-03-12 12:42:38 | INFO     |   + App Development Academy            | India               | https://www.youtube.com/@AppDevelopmentAcademy
+2026-03-12 12:42:40 | INFO     |   + InfoSkills Technology              | India               | https://infoskillstechnology.com
+2026-03-12 12:42:41 | INFO     |   + Django Stars                       | Ukraine             | http://djangostars.com
+2026-03-12 12:42:43 | INFO     |   + gigigo                             | Philippines...      | http://www.gigigo.com
+2026-03-12 12:42:44 | INFO     |   + stanwood                           | Berlin              | http://www.stanwood.io
+2026-03-12 12:42:46 | INFO     |   + Backendless                        | TX                  | https://backendless.com
+2026-03-12 12:42:48 | INFO     |   + Felgo                              | Vienna              | https://felgo.com
+2026-03-12 12:42:50 | INFO     |   + MAD                                | Texas               | https://txcsmad.com
+2026-03-12 12:42:51 | INFO     |   + Lazy Ants Agency                   | Frankfurt am Main   | https://lazy-ants.de
+2026-03-12 12:42:53 | INFO     |   + Glowlogix                          | Pakistan            | https://www.glowlogix.com
+2026-03-12 12:42:53 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:42:55 | SUCCESS  | GitHub scraper complete — 146 agencies collected
+2026-03-12 12:42:55 | DEBUG    | Updated: Morningtrain (id=1)
+2026-03-12 12:42:55 | DEBUG    | Updated: JustBetter (id=2)
+2026-03-12 12:42:55 | DEBUG    | Updated: Artisan Build (id=3)
+2026-03-12 12:42:55 | DEBUG    | Updated: Fruitcake (id=4)
+2026-03-12 12:42:55 | DEBUG    | Updated: Redberry (id=5)
+2026-03-12 12:42:55 | DEBUG    | Updated: Flixtechs (id=6)
+2026-03-12 12:42:55 | DEBUG    | Updated: Van Ons Internet Agency (id=7)
+2026-03-12 12:42:55 | DEBUG    | Updated: 42coders (id=8)
+2026-03-12 12:42:55 | DEBUG    | Updated: Modern McGuire Productions (id=9)
+2026-03-12 12:42:55 | DEBUG    | Updated: D3FY Agency (id=10)
+2026-03-12 12:42:55 | DEBUG    | Updated: A2Insights (id=11)
+2026-03-12 12:42:55 | DEBUG    | Updated: PLint-sites (id=12)
+2026-03-12 12:42:55 | DEBUG    | Updated: SK Developer I.T Services (id=13)
+2026-03-12 12:42:55 | DEBUG    | Updated: Gerenuk (id=14)
+2026-03-12 12:42:55 | DEBUG    | Updated: Lacodix (id=15)
+2026-03-12 12:42:55 | DEBUG    | Updated: BetaPeak (id=16)
+2026-03-12 12:42:55 | DEBUG    | Updated: Liberu Real Estate / Estate Agency (id=17)
+2026-03-12 12:42:55 | DEBUG    | Updated: DigitalWheat (id=18)
+2026-03-12 12:42:55 | DEBUG    | Updated: Leetronix - Digital Agency (id=19)
+2026-03-12 12:42:55 | DEBUG    | Updated: Threadable (id=20)
+2026-03-12 12:42:55 | DEBUG    | Updated: CLLOH (id=140)
+2026-03-12 12:42:55 | DEBUG    | Updated: The Forge Agency (id=21)
+2026-03-12 12:42:55 | DEBUG    | Updated: Estuche (id=22)
+2026-03-12 12:42:55 | DEBUG    | Updated: Arthos (id=23)
+2026-03-12 12:42:55 | DEBUG    | Updated: Mediaboost (id=141)
+2026-03-12 12:42:55 | DEBUG    | Updated: roasted.dev (id=24)
+2026-03-12 12:42:55 | DEBUG    | Updated: Rowan (id=25)
+2026-03-12 12:42:55 | DEBUG    | Updated: Softwhere (id=26)
+2026-03-12 12:42:55 | DEBUG    | Updated: Upcreatives Digital (id=27)
+2026-03-12 12:42:55 | DEBUG    | Updated: Red or Dev (id=28)
+2026-03-12 12:42:55 | DEBUG    | Updated: Knowledge Integration Ltd (id=29)
+2026-03-12 12:42:55 | DEBUG    | Updated: divante (id=30)
+2026-03-12 12:42:55 | DEBUG    | Updated: TouK (id=31)
+2026-03-12 12:42:55 | DEBUG    | Updated: Clearcode (id=32)
+2026-03-12 12:42:55 | DEBUG    | Updated: SENAI SP - Unid 6.01 - Software House (id=33)
+2026-03-12 12:42:55 | DEBUG    | Updated: padosoft (id=34)
+2026-03-12 12:42:55 | DEBUG    | Updated: Software House PLT (id=35)
+2026-03-12 12:42:55 | DEBUG    | Updated: The Software House Sp. z o.o. (id=36)
+2026-03-12 12:42:55 | DEBUG    | Updated: Cyparta Software House (id=37)
+2026-03-12 12:42:55 | DEBUG    | Updated: TheBrain Software House (id=38)
+2026-03-12 12:42:55 | DEBUG    | Updated: EunaRede (id=39)
+2026-03-12 12:42:55 | DEBUG    | Updated: LastStar.eu (id=40)
+2026-03-12 12:42:55 | DEBUG    | Updated: EngineArch (id=41)
+2026-03-12 12:42:55 | DEBUG    | Updated: Digital Applications (id=42)
+2026-03-12 12:42:55 | DEBUG    | Updated: LightHouse Software (id=43)
+2026-03-12 12:42:55 | DEBUG    | Updated: Ermlab Software (id=44)
+2026-03-12 12:42:55 | DEBUG    | Updated: rndity; GoLang, Mobile & Embedded by Design (id=45)
+2026-03-12 12:42:55 | DEBUG    | Updated: resIT (id=46)
+2026-03-12 12:42:55 | DEBUG    | Updated: Intré s.r.l. (id=47)
+2026-03-12 12:42:55 | DEBUG    | Updated: Gorrion Software House (id=48)
+2026-03-12 12:42:55 | DEBUG    | Updated: Hack-a-Chain Software House (id=49)
+2026-03-12 12:42:55 | DEBUG    | Updated: Codibly (id=50)
+2026-03-12 12:42:55 | DEBUG    | Updated: NEOTERIC (id=51)
+2026-03-12 12:42:55 | DEBUG    | Updated: Nostrum Biodiscovery Software (id=52)
+2026-03-12 12:42:55 | DEBUG    | Updated: Lambda TT (id=53)
+2026-03-12 12:42:55 | DEBUG    | Updated: Trame Digitali (id=54)
+2026-03-12 12:42:55 | DEBUG    | Updated: Silk Software House (id=55)
+2026-03-12 12:42:55 | DEBUG    | Updated: nata.house (id=56)
+2026-03-12 12:42:55 | DEBUG    | Updated: Central Saga (id=142)
+2026-03-12 12:42:55 | DEBUG    | Updated: TOKENIKA (id=57)
+2026-03-12 12:42:55 | DEBUG    | Updated: Lombiq Technologies Ltd. (id=58)
+2026-03-12 12:42:55 | DEBUG    | Updated: Space-Rocket | Web Design & Development (id=59)
+2026-03-12 12:42:55 | DEBUG    | Updated: Cloudspace Crew (id=60)
+2026-03-12 12:42:55 | DEBUG    | Updated: Stfalcon LLC (id=61)
+2026-03-12 12:42:55 | DEBUG    | Updated: Monterail (id=62)
+2026-03-12 12:42:55 | DEBUG    | Updated: The Blockchain Company.io  (id=63)
+2026-03-12 12:42:55 | DEBUG    | Updated: MasterDev Studio (id=143)
+2026-03-12 12:42:55 | DEBUG    | Updated: Madfish Solutions (id=64)
+2026-03-12 12:42:55 | DEBUG    | Updated: Hello Better (id=65)
+2026-03-12 12:42:55 | DEBUG    | Updated: Steelkiwi Inc. (id=66)
+2026-03-12 12:42:55 | DEBUG    | Updated: S U A L SOFT (pvt) Ltd (id=67)
+2026-03-12 12:42:55 | DEBUG    | Updated: ilateral (id=68)
+2026-03-12 12:42:55 | DEBUG    | Updated: Bornfight (id=69)
+2026-03-12 12:42:55 | DEBUG    | Updated: Dreamvention (id=70)
+2026-03-12 12:42:55 | DEBUG    | Updated: Mad Brains (id=71)
+2026-03-12 12:42:55 | DEBUG    | Updated: Vivify Ideas (id=72)
+2026-03-12 12:42:55 | DEBUG    | Updated: Alone in the web (id=73)
+2026-03-12 12:42:55 | DEBUG    | Updated: IDAP (id=74)
+2026-03-12 12:42:55 | DEBUG    | Updated: Javaabu (id=75)
+2026-03-12 12:42:55 | DEBUG    | Updated: JustCoded (id=76)
+2026-03-12 12:42:55 | DEBUG    | Updated: Equilibrium (id=77)
+2026-03-12 12:42:55 | DEBUG    | Updated: BinarCode (id=78)
+2026-03-12 12:42:55 | DEBUG    | Updated: Jecmas Technologies (id=144)
+2026-03-12 12:42:55 | DEBUG    | Updated: Thorgate (id=79)
+2026-03-12 12:42:55 | DEBUG    | Updated: WorkSolutions (id=80)
+2026-03-12 12:42:55 | DEBUG    | Updated: Translucent Computing Inc (id=81)
+2026-03-12 12:42:55 | DEBUG    | Updated: NIX (id=82)
+2026-03-12 12:42:55 | DEBUG    | Updated: KosmosKosmos (id=83)
+2026-03-12 12:42:55 | DEBUG    | Updated: Kiwee (id=84)
+2026-03-12 12:42:55 | DEBUG    | Updated: Webteractive (id=85)
+2026-03-12 12:42:55 | DEBUG    | Updated: Marzee (id=86)
+2026-03-12 12:42:55 | DEBUG    | Updated: Margelo (id=87)
+2026-03-12 12:42:55 | DEBUG    | Updated: Gabby Software Engineering (id=88)
+2026-03-12 12:42:55 | DEBUG    | Updated: digital cuisine (id=89)
+2026-03-12 12:42:55 | DEBUG    | Updated: BG Web Agency (id=90)
+2026-03-12 12:42:55 | DEBUG    | Updated: M10c (id=91)
+2026-03-12 12:42:55 | DEBUG    | Updated: stefan-majiros.com: Custom Mobile Development Agency (id=92)
+2026-03-12 12:42:55 | DEBUG    | Updated: Ideamotive (id=93)
+2026-03-12 12:42:55 | DEBUG    | Updated: Increasio (id=94)
+2026-03-12 12:42:55 | DEBUG    | Updated: RavSam (id=95)
+2026-03-12 12:42:55 | DEBUG    | Updated: Katalyx (id=96)
+2026-03-12 12:42:55 | DEBUG    | Updated: Project Lancer X (id=97)
+2026-03-12 12:42:55 | DEBUG    | Updated: Dabest Digital Agency (id=98)
+2026-03-12 12:42:55 | DEBUG    | Updated: Packagist Conductors (id=99)
+2026-03-12 12:42:55 | DEBUG    | Updated: TRISOFT (id=100)
+2026-03-12 12:42:55 | DEBUG    | Updated: Technodweep (id=101)
+2026-03-12 12:42:55 | DEBUG    | Updated: Themicly (id=102)
+2026-03-12 12:42:55 | DEBUG    | Updated: PHP Application Development Company (id=145)
+2026-03-12 12:42:55 | DEBUG    | Updated: Teamtechkenya  (id=103)
+2026-03-12 12:42:55 | DEBUG    | Updated: Compile Grid Software, INC. (id=104)
+2026-03-12 12:42:55 | DEBUG    | Updated: Giriraj Digital (id=105)
+2026-03-12 12:42:55 | DEBUG    | Updated: Tempo Ecommerce (id=106)
+2026-03-12 12:42:55 | DEBUG    | Updated: All4web (id=107)
+2026-03-12 12:42:55 | DEBUG    | Updated: W2S Solutions (id=108)
+2026-03-12 12:42:55 | DEBUG    | Updated: CubeSoft Company (id=109)
+2026-03-12 12:42:55 | DEBUG    | Updated: Wyolution, LLC (id=110)
+2026-03-12 12:42:55 | DEBUG    | Updated: Convenience Designs (id=111)
+2026-03-12 12:42:55 | DEBUG    | Updated: Augmented Productivity (id=112)
+2026-03-12 12:42:55 | DEBUG    | Updated: renuo (id=113)
+2026-03-12 12:42:55 | DEBUG    | Updated: Hive (id=114)
+2026-03-12 12:42:55 | DEBUG    | Updated: Droids On Roids (id=115)
+2026-03-12 12:42:55 | DEBUG    | Updated: Yudiz Solutions (id=116)
+2026-03-12 12:42:55 | DEBUG    | Updated: Space-O Technologies (id=117)
+2026-03-12 12:42:55 | DEBUG    | Updated: weLaika (id=118)
+2026-03-12 12:42:55 | DEBUG    | Updated: Somos Tech (id=119)
+2026-03-12 12:42:55 | DEBUG    | Updated: Brainbean Apps (id=120)
+2026-03-12 12:42:55 | DEBUG    | Updated: CTECH Mobile App Dev 2018 (id=146)
+2026-03-12 12:42:55 | DEBUG    | Updated: 41studio (id=121)
+2026-03-12 12:42:55 | DEBUG    | Updated: ERPGulf - Most successful ERPNext and APP development projects in the Gulf (id=122)
+2026-03-12 12:42:55 | DEBUG    | Updated: Sputznik (id=123)
+2026-03-12 12:42:55 | DEBUG    | Updated: TwoGate inc. (id=124)
+2026-03-12 12:42:55 | DEBUG    | Updated: WebReinvent Technologies Pvt Ltd (id=125)
+2026-03-12 12:42:55 | DEBUG    | Updated: Playmoweb (id=126)
+2026-03-12 12:42:55 | DEBUG    | Updated: Showing Cloud Inc (id=127)
+2026-03-12 12:42:55 | DEBUG    | Updated: Brightec (id=128)
+2026-03-12 12:42:55 | DEBUG    | Updated: apppeppers (id=129)
+2026-03-12 12:42:55 | DEBUG    | Updated: App Development Academy (id=130)
+2026-03-12 12:42:55 | DEBUG    | Updated: InfoSkills Technology (id=131)
+2026-03-12 12:42:55 | DEBUG    | Updated: Django Stars (id=132)
+2026-03-12 12:42:55 | DEBUG    | Updated: gigigo (id=133)
+2026-03-12 12:42:55 | DEBUG    | Updated: stanwood (id=134)
+2026-03-12 12:42:55 | DEBUG    | Updated: Backendless (id=135)
+2026-03-12 12:42:55 | DEBUG    | Updated: Felgo (id=136)
+2026-03-12 12:42:55 | DEBUG    | Updated: MAD (id=137)
+2026-03-12 12:42:55 | DEBUG    | Updated: Lazy Ants Agency (id=138)
+2026-03-12 12:42:55 | DEBUG    | Updated: Glowlogix (id=139)
+2026-03-12 12:42:55 | SUCCESS  | github: saved 146/146 agencies in 249.8s
+2026-03-12 12:42:55 | INFO     | Database connection closed.
+2026-03-12 12:42:55 | INFO     | 
+2026-03-12 12:42:55 | SUCCESS  | All done! 146 agencies saved to database.
+2026-03-12 12:44:42 | INFO     | Database connection established.
+2026-03-12 12:44:42 | INFO     | 
+2026-03-12 12:44:42 | INFO     | ==================================================
+2026-03-12 12:44:42 | INFO     |   Running scraper: GITHUB
+2026-03-12 12:44:42 | INFO     | ==================================================
+2026-03-12 12:44:42 | INFO     | GitHub: using token (5,000 requests/hour)
+2026-03-12 12:44:42 | INFO     | GitHub searching: "laravel agency"
+2026-03-12 12:44:43 | INFO     |   Found 30 organizations
+2026-03-12 12:44:44 | INFO     |   + Morningtrain                       | Danmark             | https://morningtrain.dk
+2026-03-12 12:44:46 | INFO     |   + JustBetter                         | The Netherlands     | https://justbetter.nl
+2026-03-12 12:44:48 | INFO     |   + Artisan Build                      | United States of America| https://artisan.build
+2026-03-12 12:44:50 | INFO     |   + Fruitcake                          | Netherlands         | https://fruitcake.nl
+2026-03-12 12:44:51 | INFO     |   + Redberry                           | Georgia             | https://redberry.international
+2026-03-12 12:44:53 | INFO     |   + Flixtechs                          | Harare              | https://flixtechs.co.zw
+2026-03-12 12:44:55 | INFO     |   + Van Ons Internet Agency            | Netherlands         | https://www.van-ons.nl
+2026-03-12 12:44:56 | INFO     |   + 42coders                           | Belgrade            | https://42coders.com
+2026-03-12 12:44:58 | INFO     |   + Modern McGuire Productions         | United States of America| https://modernmcguire.com
+2026-03-12 12:44:59 | INFO     |   + D3FY Agency                        | Arizona             | https://www.d3fy.com
+2026-03-12 12:45:01 | INFO     |   + A2Insights                         | Unknown             | https://a2insights.com.br
+2026-03-12 12:45:02 | INFO     |   + PLint-sites                        | The Netherlands     | https://plint-sites.nl
+2026-03-12 12:45:03 | INFO     |   + SK Developer I.T Services          | Faisalababad        | http://www.skdevelopers.pro
+2026-03-12 12:45:05 | INFO     |   + Gerenuk                            | United Kingdom      | https://geren.uk
+2026-03-12 12:45:06 | INFO     |   + Lacodix                            | Germany             | https://www.lacodix.de
+2026-03-12 12:45:08 | INFO     |   + BetaPeak                           | EU                  | https://betapeak.com
+2026-03-12 12:45:09 | INFO     |   + Liberu Real Estate / Estate Agency | United Kingdom      | https://www.liberusoftware.com
+2026-03-12 12:45:10 | INFO     |   + DigitalWheat                       | Estonia             | https://digitalwheat.com
+2026-03-12 12:45:12 | INFO     |   + Leetronix - Digital Agency         | Ukraine             | https://www.upwork.com/agencies/1968219094249439032
+2026-03-12 12:45:13 | INFO     |   + Threadable                         | Ireland             | https://www.threadable.io
+2026-03-12 12:45:15 | INFO     |   + CLLOH                              | Singapore           | No website
+2026-03-12 12:45:16 | INFO     |   + The Forge Agency                   | France              | https://www.the-forge.agency
+2026-03-12 12:45:17 | INFO     |   + Estuche                            | México              | https://estuche.co
+2026-03-12 12:45:19 | INFO     |   + Arthos                             | France              | https://arthos.fr
+2026-03-12 12:45:20 | INFO     |   + Mediaboost                         | Netherlands         | No website
+2026-03-12 12:45:22 | INFO     |   + roasted.dev                        | Unknown             | https://roasted.dev
+2026-03-12 12:45:24 | INFO     |   + Rowan                              | Sheffield           | https://rowan.agency
+2026-03-12 12:45:25 | INFO     |   + Softwhere                          | Unknown             | https://softwhere.nl
+2026-03-12 12:45:26 | INFO     |   + Upcreatives Digital                | shanghai china      | http://upcreatives.io
+2026-03-12 12:45:28 | INFO     |   + Red or Dev                         | Hong Kong           | https://www.redordev.com
+2026-03-12 12:45:28 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:45:30 | INFO     | GitHub searching: "software house"
+2026-03-12 12:45:31 | INFO     |   Found 30 organizations
+2026-03-12 12:45:33 | INFO     |   + Knowledge Integration Ltd          | UK                  | http://www.k-int.com
+2026-03-12 12:45:34 | INFO     |   + divante                            | Poland              | https://divante.com
+2026-03-12 12:45:36 | INFO     |   + TouK                               | Poland              | https://touk.pl
+2026-03-12 12:45:38 | INFO     |   + Clearcode                          | Poland              | http://clearcode.cc
+2026-03-12 12:45:39 | INFO     |   + SENAI SP - Unid 6.01 - Software House| Brazil              | https://ssancashprojetos.com.br
+2026-03-12 12:45:41 | INFO     |   + padosoft                           | Florence            | https://www.padosoft.com
+2026-03-12 12:45:42 | INFO     |   + Software House PLT                 | Malaysia            | http://softwarehouse.company
+2026-03-12 12:45:43 | INFO     |   + The Software House Sp. z o.o.      | 44-100 Gliwice      | http://www.tsh.io
+2026-03-12 12:45:45 | INFO     |   + Cyparta Software House             | Egypt               | https://cyparta.com
+2026-03-12 12:45:46 | INFO     |   + TheBrain Software House            | Unknown             | https://thebrain.pro
+2026-03-12 12:45:47 | INFO     |   + EunaRede                           | Unknown             | https://www.eunarede.com
+2026-03-12 12:45:49 | INFO     |   + LastStar.eu                        | Liberec Czech Republic| http://www.laststar.eu
+2026-03-12 12:45:50 | INFO     |   + EngineArch                         | Poland              | http://enginearch.com
+2026-03-12 12:45:51 | INFO     |   + Digital Applications               | Pakistan            | https://dgaps.com
+2026-03-12 12:45:53 | INFO     |   + LightHouse Software                | Unknown             | https://lhs.su
+2026-03-12 12:45:54 | INFO     |   + Ermlab Software                    | Poland              | https://ermlab.com
+2026-03-12 12:45:56 | INFO     |   + rndity; GoLang, Mobile & Embedded by Design| Poland              | https://rndity.com
+2026-03-12 12:45:57 | INFO     |   + resIT                              | Chile               | https://htttp://resIT.cl
+2026-03-12 12:45:59 | INFO     |   + Intré s.r.l.                       | Monza               | https://intre.it
+2026-03-12 12:46:01 | INFO     |   + Gorrion Software House             | Gliwice             | https://www.gorrion.io
+2026-03-12 12:46:02 | INFO     |   + Hack-a-Chain Software House        | Unknown             | https://hackachain.io
+2026-03-12 12:46:04 | INFO     |   + Codibly                            | Poland              | https://codibly.com
+2026-03-12 12:46:05 | INFO     |   + NEOTERIC                           | Poland              | http://neoteric.eu
+2026-03-12 12:46:07 | INFO     |   + Nostrum Biodiscovery Software      | Unknown             | https://nostrumbiodiscovery.com
+2026-03-12 12:46:08 | INFO     |   + Lambda TT                          | Brazil              | https://www.lambdatt.com.br
+2026-03-12 12:46:09 | INFO     |   + Trame Digitali                     | Italy               | https://www.trame-digitali.it
+2026-03-12 12:46:11 | INFO     |   + Silk Software House                | Poland              | http://silksoftwarehouse.com
+2026-03-12 12:46:12 | INFO     |   + nata.house                         | Brazil              | https://natahouse.com
+2026-03-12 12:46:14 | INFO     |   + Central Saga                       | Indonesia           | No website
+2026-03-12 12:46:15 | INFO     |   + TOKENIKA                           | Warsaw              | https://tokenika.io
+2026-03-12 12:46:15 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:46:17 | INFO     | GitHub searching: "web development company"
+2026-03-12 12:46:18 | INFO     |   Found 30 organizations
+2026-03-12 12:46:20 | INFO     |   + Lombiq Technologies Ltd.           | Hungary             | https://lombiq.com
+2026-03-12 12:46:22 | INFO     |   + Space-Rocket | Web Design & Development| USA                 | http://www.space-rocket.com
+2026-03-12 12:46:23 | INFO     |   + Cloudspace Crew                    | Florida             | http://cloudspace.com/blog
+2026-03-12 12:46:24 | INFO     |   + Stfalcon LLC                       | Ukraine             | https://stfalcon.com
+2026-03-12 12:46:26 | INFO     |   + Monterail                          | Poland              | https://www.monterail.com
+2026-03-12 12:46:28 | INFO     |   + The Blockchain Company.io          | United States of America| https://blockchain-company.io
+2026-03-12 12:46:29 | INFO     |   + MasterDev Studio                   | Ecuador             | No website
+2026-03-12 12:46:31 | INFO     |   + Madfish Solutions                  | Ukraine             | https://madfish.solutions
+2026-03-12 12:46:32 | INFO     |   + Hello Better                       | New Zealand         | https://hellobetterdigital.com
+2026-03-12 12:46:34 | INFO     |   + Steelkiwi Inc.                     | United States of America| http://steelkiwi.com
+2026-03-12 12:46:35 | INFO     |   + S U A L SOFT (pvt) Ltd             | United States of America| https://sual-soft.com
+2026-03-12 12:46:37 | INFO     |   + ilateral                           | UK                  | http://www.ilateral.co.uk
+2026-03-12 12:46:38 | INFO     |   + Bornfight                          | Croatia             | https://bornfight.com
+2026-03-12 12:46:40 | INFO     |   + Dreamvention                       | Estonia             | https://dreamvention.com
+2026-03-12 12:46:41 | INFO     |   + Mad Brains                         | Unknown             | https://madbrains.ru
+2026-03-12 12:46:43 | INFO     |   + Vivify Ideas                       | Novi Sad            | https://vivifyideas.com
+2026-03-12 12:46:45 | INFO     |   + Alone in the web                   | Zaragoza            | https://www.aloneintheweb.com
+2026-03-12 12:46:46 | INFO     |   + IDAP                               | USA                 | http://idapgroup.com
+2026-03-12 12:46:48 | INFO     |   + Javaabu                            | Maldives            | http://javaabu.com
+2026-03-12 12:46:50 | INFO     |   + JustCoded                          | Ukraine             | http://justcoded.com
+2026-03-12 12:46:52 | INFO     |   + Equilibrium                        | Unknown             | https://equilibrium.co
+2026-03-12 12:46:53 | INFO     |   + BinarCode                          | Romania             | https://www.binarcode.com
+2026-03-12 12:46:54 | INFO     |   + Jecmas Technologies                | Ghana               | No website
+2026-03-12 12:46:56 | INFO     |   + Thorgate                           | Estonia             | http://thorgate.eu
+2026-03-12 12:46:57 | INFO     |   + WorkSolutions                      | Rostov-on-Don       | https://worksolutions.ru
+2026-03-12 12:46:59 | INFO     |   + Translucent Computing Inc          | Canada              | http://www.translucentcomputing.com
+2026-03-12 12:47:00 | INFO     |   + NIX                                | Ukraine             | https://www.nixsolutions.com
+2026-03-12 12:47:01 | INFO     |   + KosmosKosmos                       | Germany             | https://kosmoskosmos.de
+2026-03-12 12:47:03 | INFO     |   + Kiwee                              | Poland              | https://kiwee.eu
+2026-03-12 12:47:04 | INFO     |   + Webteractive                       | Philippines         | https://webteractive.co
+2026-03-12 12:47:04 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:47:06 | INFO     | GitHub searching: "react development agency"
+2026-03-12 12:47:07 | INFO     |   Found 19 organizations
+2026-03-12 12:47:09 | INFO     |   + Marzee                             | Porto - Setúbal - London - Barcelona - Rome| https://marzee.co
+2026-03-12 12:47:10 | INFO     |   + Margelo                            | Unknown             | https://margelo.com
+2026-03-12 12:47:11 | INFO     |   + Gabby Software Engineering         | United States of America| https://gabbysoftware.com
+2026-03-12 12:47:13 | INFO     |   + digital cuisine                    | Germany             | https://www.cuisine.digital
+2026-03-12 12:47:14 | INFO     |   + BG Web Agency                      | Singapore           | http://bgwebagency.in
+2026-03-12 12:47:15 | INFO     |   + M10c                               | UK                  | https://www.m10c.com
+2026-03-12 12:47:17 | INFO     |   + stefan-majiros.com: Custom Mobile Development Agency| Unknown             | https://stefan-majiros.com
+2026-03-12 12:47:18 | INFO     |   + Ideamotive                         | Warsaw              | https://ideamotive.com
+2026-03-12 12:47:20 | INFO     |   + Increasio                          | Ukraine             | https://increas.io
+2026-03-12 12:47:22 | INFO     |   + RavSam                             | India               | https://www.ravsam.in
+2026-03-12 12:47:23 | INFO     |   + Katalyx                            | United Arab Emirates| https://katalyx.space
+2026-03-12 12:47:25 | INFO     |   + Project Lancer X                   | Türkiye             | https://umutkilbizoglu.dev
+2026-03-12 12:47:26 | INFO     |   + Dabest Digital Agency              | Nigeria             | https://www.dabestdigital.com
+2026-03-12 12:47:26 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:47:28 | INFO     | GitHub searching: "php development company"
+2026-03-12 12:47:29 | INFO     |   Found 15 organizations
+2026-03-12 12:47:31 | INFO     |   + Packagist Conductors               | Germany             | https://packagist.com
+2026-03-12 12:47:33 | INFO     |   + TRISOFT                            | Romania             | https://www.trisoft.ro
+2026-03-12 12:47:34 | INFO     |   + Technodweep                        | Unknown             | https://www.technodweep.com
+2026-03-12 12:47:36 | INFO     |   + Themicly                           | Bangladesh          | https://themicly.com
+2026-03-12 12:47:37 | INFO     |   + PHP Application Development Company| GA                  | No website
+2026-03-12 12:47:39 | INFO     |   + Teamtechkenya                      | Karatina            | https://teamtechkenya.co.ke
+2026-03-12 12:47:40 | INFO     |   + Compile Grid Software, INC.        | United States       | https://compilegridcms.com
+2026-03-12 12:47:42 | INFO     |   + Giriraj Digital                    | India               | https://www.girirajdigital.com
+2026-03-12 12:47:44 | INFO     |   + Tempo Ecommerce                    | Netherlands         | http://uinique.com
+2026-03-12 12:47:46 | INFO     |   + All4web                            | United Kingdom      | https://all4web.dev
+2026-03-12 12:47:48 | INFO     |   + W2S Solutions                      | chennai             | https://www.w2ssolutions.com/iphone-app-development
+2026-03-12 12:47:50 | INFO     |   + CubeSoft Company                   | Unknown             | https://soon
+2026-03-12 12:47:51 | INFO     |   + Wyolution, LLC                     | WY                  | https://wyolution.com
+2026-03-12 12:47:53 | INFO     |   + Convenience Designs                | Nairobi Kenya       | https://convenience.co.ke
+2026-03-12 12:47:54 | INFO     |   + Augmented Productivity             | Unknown             | https://augmentedproductivity.ai
+2026-03-12 12:47:54 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:47:56 | INFO     | GitHub searching: "mobile app development"
+2026-03-12 12:47:57 | INFO     |   Found 30 organizations
+2026-03-12 12:47:59 | INFO     |   + renuo                              | Zürich              | https://www.renuo.ch
+2026-03-12 12:48:01 | INFO     |   + Hive                               | Unknown             | http://hiveapps.io
+2026-03-12 12:48:04 | INFO     |   + Droids On Roids                    | Poland              | https://www.thedroidsonroids.com
+2026-03-12 12:48:05 | INFO     |   + Yudiz Solutions                    | india               | https://www.yudiz.com
+2026-03-12 12:48:07 | INFO     |   + Space-O Technologies               | Space-O Technologies| https://www.spaceotechnologies.com
+2026-03-12 12:48:09 | INFO     |   + weLaika                            | Italy               | https://dev.welaika.com/en
+2026-03-12 12:48:10 | INFO     |   + Somos Tech                         | https://www.instagram.com/somostech| http://www.somostech.com.ve
+2026-03-12 12:48:12 | INFO     |   + Brainbean Apps                     | Unknown             | https://brainbeanapps.com
+2026-03-12 12:48:13 | INFO     |   + CTECH Mobile App Dev 2018          | MN                  | No website
+2026-03-12 12:48:15 | INFO     |   + 41studio                           | West Java - Indonesia| https://www.41studio.com
+2026-03-12 12:48:16 | INFO     |   + ERPGulf - Most successful ERPNext and APP development projects in the Gulf| Saudi Arabia        | https://erpgulf.com
+2026-03-12 12:48:18 | INFO     |   + Sputznik                           | India               | https://sputznik.com
+2026-03-12 12:48:20 | INFO     |   + TwoGate inc.                       | Japan               | https://twogate.com
+2026-03-12 12:48:21 | INFO     |   + WebReinvent Technologies Pvt Ltd   | India               | https://webreinvent.com
+2026-03-12 12:48:23 | INFO     |   + Playmoweb                          | France              | https://playmoweb.com
+2026-03-12 12:48:24 | INFO     |   + Showing Cloud Inc                  | United States of America| https://www.showingcloud.com
+2026-03-12 12:48:26 | INFO     |   + Brightec                           | UK                  | https://www.brightec.co.uk
+2026-03-12 12:48:27 | INFO     |   + apppeppers                         | Unknown             | https://apppeppers.com
+2026-03-12 12:48:29 | INFO     |   + App Development Academy            | India               | https://www.youtube.com/@AppDevelopmentAcademy
+2026-03-12 12:48:31 | INFO     |   + InfoSkills Technology              | India               | https://infoskillstechnology.com
+2026-03-12 12:48:32 | INFO     |   + Django Stars                       | Ukraine             | http://djangostars.com
+2026-03-12 12:48:34 | INFO     |   + gigigo                             | Philippines...      | http://www.gigigo.com
+2026-03-12 12:48:35 | INFO     |   + stanwood                           | Berlin              | http://www.stanwood.io
+2026-03-12 12:48:37 | INFO     |   + Backendless                        | TX                  | https://backendless.com
+2026-03-12 12:48:38 | INFO     |   + Felgo                              | Vienna              | https://felgo.com
+2026-03-12 12:48:41 | INFO     |   + MAD                                | Texas               | https://txcsmad.com
+2026-03-12 12:48:43 | INFO     |   + Lazy Ants Agency                   | Frankfurt am Main   | https://lazy-ants.de
+2026-03-12 12:48:44 | INFO     |   + Glowlogix                          | Pakistan            | https://www.glowlogix.com
+2026-03-12 12:48:44 | INFO     |   Query done. Waiting 2 seconds...
+2026-03-12 12:48:46 | SUCCESS  | GitHub scraper complete — 146 agencies collected
+2026-03-12 12:48:46 | DEBUG    | Updated: Morningtrain (id=1)
+2026-03-12 12:48:46 | DEBUG    | Updated: JustBetter (id=2)
+2026-03-12 12:48:46 | DEBUG    | Updated: Artisan Build (id=3)
+2026-03-12 12:48:46 | DEBUG    | Updated: Fruitcake (id=4)
+2026-03-12 12:48:46 | DEBUG    | Updated: Redberry (id=5)
+2026-03-12 12:48:46 | DEBUG    | Updated: Flixtechs (id=6)
+2026-03-12 12:48:46 | DEBUG    | Updated: Van Ons Internet Agency (id=7)
+2026-03-12 12:48:46 | DEBUG    | Updated: 42coders (id=8)
+2026-03-12 12:48:46 | DEBUG    | Updated: Modern McGuire Productions (id=9)
+2026-03-12 12:48:46 | DEBUG    | Updated: D3FY Agency (id=10)
+2026-03-12 12:48:46 | DEBUG    | Updated: A2Insights (id=11)
+2026-03-12 12:48:46 | DEBUG    | Updated: PLint-sites (id=12)
+2026-03-12 12:48:46 | DEBUG    | Updated: SK Developer I.T Services (id=13)
+2026-03-12 12:48:46 | DEBUG    | Updated: Gerenuk (id=14)
+2026-03-12 12:48:46 | DEBUG    | Updated: Lacodix (id=15)
+2026-03-12 12:48:46 | DEBUG    | Updated: BetaPeak (id=16)
+2026-03-12 12:48:46 | DEBUG    | Updated: Liberu Real Estate / Estate Agency (id=17)
+2026-03-12 12:48:46 | DEBUG    | Updated: DigitalWheat (id=18)
+2026-03-12 12:48:46 | DEBUG    | Updated: Leetronix - Digital Agency (id=19)
+2026-03-12 12:48:46 | DEBUG    | Updated: Threadable (id=20)
+2026-03-12 12:48:46 | DEBUG    | Updated: CLLOH (id=140)
+2026-03-12 12:48:46 | DEBUG    | Updated: The Forge Agency (id=21)
+2026-03-12 12:48:46 | DEBUG    | Updated: Estuche (id=22)
+2026-03-12 12:48:46 | DEBUG    | Updated: Arthos (id=23)
+2026-03-12 12:48:46 | DEBUG    | Updated: Mediaboost (id=141)
+2026-03-12 12:48:46 | DEBUG    | Updated: roasted.dev (id=24)
+2026-03-12 12:48:46 | DEBUG    | Updated: Rowan (id=25)
+2026-03-12 12:48:46 | DEBUG    | Updated: Softwhere (id=26)
+2026-03-12 12:48:46 | DEBUG    | Updated: Upcreatives Digital (id=27)
+2026-03-12 12:48:46 | DEBUG    | Updated: Red or Dev (id=28)
+2026-03-12 12:48:46 | DEBUG    | Updated: Knowledge Integration Ltd (id=29)
+2026-03-12 12:48:46 | DEBUG    | Updated: divante (id=30)
+2026-03-12 12:48:46 | DEBUG    | Updated: TouK (id=31)
+2026-03-12 12:48:46 | DEBUG    | Updated: Clearcode (id=32)
+2026-03-12 12:48:46 | DEBUG    | Updated: SENAI SP - Unid 6.01 - Software House (id=33)
+2026-03-12 12:48:46 | DEBUG    | Updated: padosoft (id=34)
+2026-03-12 12:48:46 | DEBUG    | Updated: Software House PLT (id=35)
+2026-03-12 12:48:47 | DEBUG    | Updated: The Software House Sp. z o.o. (id=36)
+2026-03-12 12:48:47 | DEBUG    | Updated: Cyparta Software House (id=37)
+2026-03-12 12:48:47 | DEBUG    | Updated: TheBrain Software House (id=38)
+2026-03-12 12:48:47 | DEBUG    | Updated: EunaRede (id=39)
+2026-03-12 12:48:47 | DEBUG    | Updated: LastStar.eu (id=40)
+2026-03-12 12:48:47 | DEBUG    | Updated: EngineArch (id=41)
+2026-03-12 12:48:47 | DEBUG    | Updated: Digital Applications (id=42)
+2026-03-12 12:48:47 | DEBUG    | Updated: LightHouse Software (id=43)
+2026-03-12 12:48:47 | DEBUG    | Updated: Ermlab Software (id=44)
+2026-03-12 12:48:47 | DEBUG    | Updated: rndity; GoLang, Mobile & Embedded by Design (id=45)
+2026-03-12 12:48:47 | DEBUG    | Updated: resIT (id=46)
+2026-03-12 12:48:47 | DEBUG    | Updated: Intré s.r.l. (id=47)
+2026-03-12 12:48:47 | DEBUG    | Updated: Gorrion Software House (id=48)
+2026-03-12 12:48:47 | DEBUG    | Updated: Hack-a-Chain Software House (id=49)
+2026-03-12 12:48:47 | DEBUG    | Updated: Codibly (id=50)
+2026-03-12 12:48:47 | DEBUG    | Updated: NEOTERIC (id=51)
+2026-03-12 12:48:47 | DEBUG    | Updated: Nostrum Biodiscovery Software (id=52)
+2026-03-12 12:48:47 | DEBUG    | Updated: Lambda TT (id=53)
+2026-03-12 12:48:47 | DEBUG    | Updated: Trame Digitali (id=54)
+2026-03-12 12:48:47 | DEBUG    | Updated: Silk Software House (id=55)
+2026-03-12 12:48:47 | DEBUG    | Updated: nata.house (id=56)
+2026-03-12 12:48:47 | DEBUG    | Updated: Central Saga (id=142)
+2026-03-12 12:48:47 | DEBUG    | Updated: TOKENIKA (id=57)
+2026-03-12 12:48:47 | DEBUG    | Updated: Lombiq Technologies Ltd. (id=58)
+2026-03-12 12:48:47 | DEBUG    | Updated: Space-Rocket | Web Design & Development (id=59)
+2026-03-12 12:48:47 | DEBUG    | Updated: Cloudspace Crew (id=60)
+2026-03-12 12:48:47 | DEBUG    | Updated: Stfalcon LLC (id=61)
+2026-03-12 12:48:47 | DEBUG    | Updated: Monterail (id=62)
+2026-03-12 12:48:47 | DEBUG    | Updated: The Blockchain Company.io  (id=63)
+2026-03-12 12:48:47 | DEBUG    | Updated: MasterDev Studio (id=143)
+2026-03-12 12:48:47 | DEBUG    | Updated: Madfish Solutions (id=64)
+2026-03-12 12:48:47 | DEBUG    | Updated: Hello Better (id=65)
+2026-03-12 12:48:47 | DEBUG    | Updated: Steelkiwi Inc. (id=66)
+2026-03-12 12:48:47 | DEBUG    | Updated: S U A L SOFT (pvt) Ltd (id=67)
+2026-03-12 12:48:47 | DEBUG    | Updated: ilateral (id=68)
+2026-03-12 12:48:47 | DEBUG    | Updated: Bornfight (id=69)
+2026-03-12 12:48:47 | DEBUG    | Updated: Dreamvention (id=70)
+2026-03-12 12:48:47 | DEBUG    | Updated: Mad Brains (id=71)
+2026-03-12 12:48:47 | DEBUG    | Updated: Vivify Ideas (id=72)
+2026-03-12 12:48:47 | DEBUG    | Updated: Alone in the web (id=73)
+2026-03-12 12:48:47 | DEBUG    | Updated: IDAP (id=74)
+2026-03-12 12:48:47 | DEBUG    | Updated: Javaabu (id=75)
+2026-03-12 12:48:47 | DEBUG    | Updated: JustCoded (id=76)
+2026-03-12 12:48:47 | DEBUG    | Updated: Equilibrium (id=77)
+2026-03-12 12:48:47 | DEBUG    | Updated: BinarCode (id=78)
+2026-03-12 12:48:47 | DEBUG    | Updated: Jecmas Technologies (id=144)
+2026-03-12 12:48:47 | DEBUG    | Updated: Thorgate (id=79)
+2026-03-12 12:48:47 | DEBUG    | Updated: WorkSolutions (id=80)
+2026-03-12 12:48:47 | DEBUG    | Updated: Translucent Computing Inc (id=81)
+2026-03-12 12:48:47 | DEBUG    | Updated: NIX (id=82)
+2026-03-12 12:48:47 | DEBUG    | Updated: KosmosKosmos (id=83)
+2026-03-12 12:48:47 | DEBUG    | Updated: Kiwee (id=84)
+2026-03-12 12:48:47 | DEBUG    | Updated: Webteractive (id=85)
+2026-03-12 12:48:47 | DEBUG    | Updated: Marzee (id=86)
+2026-03-12 12:48:47 | DEBUG    | Updated: Margelo (id=87)
+2026-03-12 12:48:47 | DEBUG    | Updated: Gabby Software Engineering (id=88)
+2026-03-12 12:48:47 | DEBUG    | Updated: digital cuisine (id=89)
+2026-03-12 12:48:47 | DEBUG    | Updated: BG Web Agency (id=90)
+2026-03-12 12:48:47 | DEBUG    | Updated: M10c (id=91)
+2026-03-12 12:48:47 | DEBUG    | Updated: stefan-majiros.com: Custom Mobile Development Agency (id=92)
+2026-03-12 12:48:47 | DEBUG    | Updated: Ideamotive (id=93)
+2026-03-12 12:48:47 | DEBUG    | Updated: Increasio (id=94)
+2026-03-12 12:48:47 | DEBUG    | Updated: RavSam (id=95)
+2026-03-12 12:48:47 | DEBUG    | Updated: Katalyx (id=96)
+2026-03-12 12:48:47 | DEBUG    | Updated: Project Lancer X (id=97)
+2026-03-12 12:48:47 | DEBUG    | Updated: Dabest Digital Agency (id=98)
+2026-03-12 12:48:47 | DEBUG    | Updated: Packagist Conductors (id=99)
+2026-03-12 12:48:47 | DEBUG    | Updated: TRISOFT (id=100)
+2026-03-12 12:48:47 | DEBUG    | Updated: Technodweep (id=101)
+2026-03-12 12:48:47 | DEBUG    | Updated: Themicly (id=102)
+2026-03-12 12:48:47 | DEBUG    | Updated: PHP Application Development Company (id=145)
+2026-03-12 12:48:47 | DEBUG    | Updated: Teamtechkenya  (id=103)
+2026-03-12 12:48:47 | DEBUG    | Updated: Compile Grid Software, INC. (id=104)
+2026-03-12 12:48:47 | DEBUG    | Updated: Giriraj Digital (id=105)
+2026-03-12 12:48:47 | DEBUG    | Updated: Tempo Ecommerce (id=106)
+2026-03-12 12:48:47 | DEBUG    | Updated: All4web (id=107)
+2026-03-12 12:48:47 | DEBUG    | Updated: W2S Solutions (id=108)
+2026-03-12 12:48:47 | DEBUG    | Updated: CubeSoft Company (id=109)
+2026-03-12 12:48:47 | DEBUG    | Updated: Wyolution, LLC (id=110)
+2026-03-12 12:48:47 | DEBUG    | Updated: Convenience Designs (id=111)
+2026-03-12 12:48:47 | DEBUG    | Updated: Augmented Productivity (id=112)
+2026-03-12 12:48:47 | DEBUG    | Updated: renuo (id=113)
+2026-03-12 12:48:47 | DEBUG    | Updated: Hive (id=114)
+2026-03-12 12:48:47 | DEBUG    | Updated: Droids On Roids (id=115)
+2026-03-12 12:48:47 | DEBUG    | Updated: Yudiz Solutions (id=116)
+2026-03-12 12:48:47 | DEBUG    | Updated: Space-O Technologies (id=117)
+2026-03-12 12:48:47 | DEBUG    | Updated: weLaika (id=118)
+2026-03-12 12:48:47 | DEBUG    | Updated: Somos Tech (id=119)
+2026-03-12 12:48:47 | DEBUG    | Updated: Brainbean Apps (id=120)
+2026-03-12 12:48:47 | DEBUG    | Updated: CTECH Mobile App Dev 2018 (id=146)
+2026-03-12 12:48:47 | DEBUG    | Updated: 41studio (id=121)
+2026-03-12 12:48:47 | DEBUG    | Updated: ERPGulf - Most successful ERPNext and APP development projects in the Gulf (id=122)
+2026-03-12 12:48:47 | DEBUG    | Updated: Sputznik (id=123)
+2026-03-12 12:48:47 | DEBUG    | Updated: TwoGate inc. (id=124)
+2026-03-12 12:48:47 | DEBUG    | Updated: WebReinvent Technologies Pvt Ltd (id=125)
+2026-03-12 12:48:47 | DEBUG    | Updated: Playmoweb (id=126)
+2026-03-12 12:48:47 | DEBUG    | Updated: Showing Cloud Inc (id=127)
+2026-03-12 12:48:47 | DEBUG    | Updated: Brightec (id=128)
+2026-03-12 12:48:47 | DEBUG    | Updated: apppeppers (id=129)
+2026-03-12 12:48:47 | DEBUG    | Updated: App Development Academy (id=130)
+2026-03-12 12:48:47 | DEBUG    | Updated: InfoSkills Technology (id=131)
+2026-03-12 12:48:47 | DEBUG    | Updated: Django Stars (id=132)
+2026-03-12 12:48:47 | DEBUG    | Updated: gigigo (id=133)
+2026-03-12 12:48:47 | DEBUG    | Updated: stanwood (id=134)
+2026-03-12 12:48:47 | DEBUG    | Updated: Backendless (id=135)
+2026-03-12 12:48:47 | DEBUG    | Updated: Felgo (id=136)
+2026-03-12 12:48:47 | DEBUG    | Updated: MAD (id=137)
+2026-03-12 12:48:47 | DEBUG    | Updated: Lazy Ants Agency (id=138)
+2026-03-12 12:48:47 | DEBUG    | Updated: Glowlogix (id=139)
+2026-03-12 12:48:47 | SUCCESS  | github: saved 146/146 agencies in 245.4s
+2026-03-12 12:48:47 | INFO     | Database connection closed.
+2026-03-12 12:48:47 | INFO     | 
+2026-03-12 12:48:47 | SUCCESS  | All done! 146 agencies saved to database.
